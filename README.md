@@ -26,7 +26,7 @@ The necessary data about the top YouTubers in the Czech Republic for 2024 includ
 
 Source of the data: 
 1) <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">Ranking of the top Czech YouTubers</a>
-2) YouTube API
+2) <a href="https://developers.google.com/youtube/v3/getting-started" target="_blank">YouTube API</a>
 
 ## Project Steps
 
@@ -63,19 +63,19 @@ These are some initial questions we aim to answer to reach our goal.
   </tr>
   <tr>
     <td style="text-align: left;">Jupyter Lab</td>
-    <td style="text-align: center;">Data retrieval</td>
+    <td style="text-align: left;">Data retrieval</td>
   </tr>
   <tr>
     <td style="text-align: left;">MS Excel</td>
-    <td style="text-align: center;">Data exploration</td>
+    <td style="text-align: left;">Data exploration</td>
   </tr>
   <tr>
     <td style="text-align: left;">MS SQL Server</td>
-    <td style="text-align: center;">Data cleaning, preparation, testing and analysis</td>
+    <td style="text-align: left;">Data cleaning, preparation, testing and analysis</td>
   </tr>
     <tr>
     <td style="text-align: left;">Power BI/Tableau</td>
-    <td style="text-align: center;">Data visualization</td>
+    <td style="text-align: left;">Data visualization</td>
   </tr>
 </table>
 
