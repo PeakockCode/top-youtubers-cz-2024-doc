@@ -10,5 +10,5 @@ The goal is to create a dashboard that provides comprehensive insights into the 
 - Total videos
 - Engagement metrics
 
-These information can help the marketing team make informed decisions about which areas to focus on more closely or determine whether additional information is needed.
+These pieces of information can help the marketing team make informed decisions about which YouTubers are right to cooperate with or determine whether additional information is needed.
 
