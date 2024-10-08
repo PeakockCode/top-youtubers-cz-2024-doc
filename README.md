@@ -1,5 +1,7 @@
 # Czech Top YouTubers 2024
 
+![YouTube image](assets/images/youTubers.jpg)
+
 ## Intention
 The marketing department wants to identify and analyze the top YouTubers in the Czech Republic for 2024 to determine which content creators would be the best fit for marketing campaigns next year. They want to focus on the YouTube channels of the top 100 YouTubers.
 
@@ -60,29 +62,23 @@ These are some initial questions we aim to answer to reach our goal.
     <th style="text-align: center;">Reason</th>
   </tr>
   <tr>
-    <td style="text-align: center;">Jupyter Lab</td>
+    <td style="text-align: left;">Jupyter Lab</td>
     <td style="text-align: center;">Data retrieval</td>
   </tr>
   <tr>
-    <td style="text-align: center;">MS Excel</td>
+    <td style="text-align: left;">MS Excel</td>
     <td style="text-align: center;">Data exploration</td>
   </tr>
   <tr>
-    <td style="text-align: center;">MS SQL Server</td>
+    <td style="text-align: left;">MS SQL Server</td>
     <td style="text-align: center;">Data cleaning, preparation, testing and analysis</td>
   </tr>
     <tr>
-    <td style="text-align: center;">Power BI/Tableau</td>
+    <td style="text-align: left;">Power BI/Tableau</td>
     <td style="text-align: center;">Data visualization</td>
   </tr>
 </table>
 
-|        Tool        |                      Reason                        |
-|--------------------|----------------------------------------------------|
-| Jupyter Lab        | Data retrieval                                     |
-| MS Excel           | Data exploration                                   |
-| MS SQL Server      | Data cleaning,  preparation, testing and analyzing |
-| Power BI/Tableau   | Data visualization                                 |
 
 #### Dashboard Visualization
 
