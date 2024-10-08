@@ -13,8 +13,11 @@ The goal is to create a dashboard that provides information to help the marketin
 
 ## Data origin
 
-Data about top YouTubers in Czech Republic in 2024 which includes **<u>YouTuber Name</u>** and key metrics we need such as:
+Data about top YouTubers in Czech Republic in 2024 which includes <u>YouTuber Name</u> and key metrics we need such as:
 
 - Number of subscribers
 - Number of views
 - Number of uploaded videos
+- etc.
+
+Source of the data: [Ranking of the top Czech YouTubers](https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic)
