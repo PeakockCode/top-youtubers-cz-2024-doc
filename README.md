@@ -21,7 +21,7 @@ The necessary data about the top YouTubers in the Czech Republic for 2024 includ
 - Number of uploaded videos
 - etc.
 
-Source of the data: [Ranking of the top Czech YouTubers](https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic)
+Source of the data: <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">[Ranking of the top Czech YouTubers]</a>
 
 ## Project Steps
 
