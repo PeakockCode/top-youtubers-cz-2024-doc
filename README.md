@@ -1,6 +1,6 @@
 # Czech Top YouTubers 2024
 
-##Intention
+## Intention
 The marketing department wants to identify the top 100 YouTubers in the Czech Republic for 2024 to determine which content creators would be the best fit for marketing campaigns next year.
 
 ## Main Solution Idea
