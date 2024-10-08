@@ -31,7 +31,7 @@ Source of the data: <a href="https://starngage.com/plus/en-us/influencer/ranking
 - Testing
 - Analysis and conclusion
 
-## Design
+## Dashboard Design
 
 ### Required Dashboard Elements
 
@@ -48,12 +48,12 @@ To outline the content, we first need to identify some key questions that the da
 
 These are some initial questions we aim to answer to reach our goal.
 
-### Dashboard layout
+### Dashboard Visualization
 
-The data visuals that should be appropriate in answering our questions are:  
-Table, Scorecard (Engagement metrics), Bar chart, Treemap or other visualization.
+The data visuals that will be suitable for answering our questions include:  
+Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations such as Treemaps.
 
-**Dasbhoard wireframe:**
+**Dasbhoard mockup:**
 
 ![Dasbhoard mockup](assets/images/TopYouTubers_CZ2024_Dashboard_Mockup.png)
 
