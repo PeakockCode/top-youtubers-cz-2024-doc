@@ -13,7 +13,7 @@ The goal is to create a dashboard that provides information to help the marketin
 
 ## Data origin
 
-**What data set is required to reach our goals?**
+**What data set is required to reach our goals?**  
 
 The necessary data about the top YouTubers in the Czech Republic for 2024 includes the YouTuber names and the previously mentioned key metrics such as:
 
@@ -35,7 +35,8 @@ Source of the data: <a href="https://starngage.com/plus/en-us/influencer/ranking
 
 ### Required Dashboard Elements
 
-**What should be included in the dashboard based on the specified requirements?** 
+**What should be included in the dashboard based on the specified requirements?**  
+
 To outline the content, we first need to identify some key questions that the dashboard should answer:
 
 - Who are the leading YouTubers by number of subscribers?
@@ -49,7 +50,8 @@ These are some initial questions we aim to answer to reach our goal.
 
 ### Dashboard layout
 
-The data visuals that should be appropriate in answering our questions are: Table, Scorecard (Engagement metrics), Bar chart, Treemap or other visualization.
+The data visuals that should be appropriate in answering our questions are:  
+Table, Scorecard (Engagement metrics), Bar chart, Treemap or other visualization.
 
 **Dasbhoard wireframe:**
 
