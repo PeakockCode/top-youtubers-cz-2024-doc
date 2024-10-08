@@ -1,4 +1,5 @@
-# Czech Top YouTubers 2024
+# CZECH TOP YOUTUBERS 2024
+
 
 ![YouTube image](assets/images/youTubers.jpg)
 
@@ -89,4 +90,19 @@ Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations su
 
 ![Dasbhoard mockup](assets/images/TopYouTubers_CZ2024_Dashboard_Mockup.png)
 
-### Dashboard Design
+### Project building
+
+#### General Workflow
+
+What’s the overall process to develop the solution?
+
+- Data Acquisition: Retrieve the necessary data (see the section on Data Sources).
+- Data Exploration: Analyze the data in Excel to understand its structure and general quality.
+- Data Loading: Import the data into SQL Server for further processing.
+- Data Cleaning: Use SQL queries to clean and standardize the data for later analysis.
+- Data Testing: Verify the integrity and accuracy of the data using SQL Server.
+- Data Visualization: Create visual representations of the data in Power BI or Tableau.
+- Insights Formulation: Derive findings and conclusions based on the visualized data.
+- Documentation: Prepare documentation (including commentary) to support the final conclusions.
+- Publishing: Share the final data and insights (in my case on GitHub Pages).
+
