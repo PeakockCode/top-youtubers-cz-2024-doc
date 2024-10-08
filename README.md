@@ -22,7 +22,9 @@ The necessary data about the top YouTubers in the Czech Republic for 2024 includ
 - Number of uploaded videos
 - etc.
 
-Source of the data: <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">Ranking of the top Czech YouTubers</a>
+Source of the data: 
+1) <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">Ranking of the top Czech YouTubers</a>
+2) YouTube API
 
 ## Project Steps
 
@@ -31,9 +33,9 @@ Source of the data: <a href="https://starngage.com/plus/en-us/influencer/ranking
 - Testing
 - Analysis and conclusion
 
-## Dashboard Design
+### Dashboard Design
 
-### Required Dashboard Elements
+#### Required Dashboard Elements
 
 **What should be included in the dashboard based on the specified requirements?**  
 
@@ -48,7 +50,41 @@ To outline the content, we first need to identify some key questions that the da
 
 These are some initial questions we aim to answer to reach our goal.
 
-### Dashboard Visualization
+#### Tools requirements
+
+**Tools required for the Process**
+
+<table>
+  <tr>
+    <th style="text-align: center;">Tool</th>
+    <th style="text-align: center;">Reason</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jupyter Lab</td>
+    <td style="text-align: center;">Data retrieval</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">MS Excel</td>
+    <td style="text-align: center;">Data exploration</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">MS SQL Server</td>
+    <td style="text-align: center;">Data cleaning, preparation, testing and analysis</td>
+  </tr>
+    <tr>
+    <td style="text-align: center;">Power BI/Tableau</td>
+    <td style="text-align: center;">Data visualization</td>
+  </tr>
+</table>
+
+|        Tool        |                      Reason                        |
+|--------------------|----------------------------------------------------|
+| Jupyter Lab        | Data retrieval                                     |
+| MS Excel           | Data exploration                                   |
+| MS SQL Server      | Data cleaning,  preparation, testing and analyzing |
+| Power BI/Tableau   | Data visualization                                 |
+
+#### Dashboard Visualization
 
 The data visuals that will be suitable for answering our questions include:  
 Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations such as Treemaps.
@@ -57,3 +93,4 @@ Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations su
 
 ![Dasbhoard mockup](assets/images/TopYouTubers_CZ2024_Dashboard_Mockup.png)
 
+### Dashboard Design
