@@ -88,7 +88,7 @@ Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations su
 
 **Dasbhoard mockup:**
 
-![Dasbhoard mockup](assets/images/TopYouTubers_CZ2024_Dashboard_Mockup.png)
+![Dasbhoard mockup](assets/images/TopYouTubers_CZ2024_DashboardMockup.png)
 
 ### Project building
 
