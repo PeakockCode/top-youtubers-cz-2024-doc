@@ -152,3 +152,14 @@ No column should contain null values.
 **2. Create the SQL view**   
 
 ![2. step of data cleaning](assets/images/2.step-create_view.png)
+
+
+### Testing
+
+- What quality data checks are necessary to create? 
+- What data validation do we need to ensure the dataset?
+
+The following data quality checks have been performed:
+Each test was designed to ensure the dataset is accurate, consistent, and ready for analysis.
+
+**Row count check**
