@@ -149,6 +149,6 @@ No column should contain null values.
 
 ![1. step of data cleaning](assets/images/1.step-standardize_data.png)
 
-**2. Create the SQL view**  
+**2. Create the SQL view**   
 
 ![2. step of data cleaning](assets/images/2.step-create_view.png)
