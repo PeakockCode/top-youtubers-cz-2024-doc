@@ -244,7 +244,4 @@ The following data quality checks have been performed to ensure the dataset is a
 
 - Dashboard visualization in Power BI:
 
-<video width="640" height="360" controls>
-    <source src="assets/images/DashboardVideo.mp4" type="video/mp4">
-    Váš prohlížeč nepodporuje přehrávač videa.
-</video>
+<img src="assets/images/DashboardVideo.gif" alt="dashboard"/>
