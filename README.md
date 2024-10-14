@@ -163,7 +163,7 @@ No column should contain null values.
   
 We need to check following informations:  
 
-**Number of rows and columns**  
+Number of rows and columns:  
 
 <table>
   <tr>
@@ -180,7 +180,7 @@ We need to check following informations:
   </tr>
 </table>  
 
-**Data types a column names**  
+Data types a column names:  
 
 <table>
   <tr>
@@ -240,3 +240,11 @@ The following data quality checks have been performed to ensure the dataset is a
 
 #### Data visualization  
 
+##### Final results  
+
+- Dashboard visualization in Power BI:
+
+<video width="640" height="360" controls>
+    <source src="assets/images/DashboardVideo.mp4" type="video/mp4">
+    Váš prohlížeč nepodporuje přehrávač videa.
+</video>
