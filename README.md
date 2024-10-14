@@ -140,7 +140,13 @@ No column should contain null values.
 
 ##### What steps are needed to clean and modify the data into the required format?
 
-- **Remove Duplicates** - There are no duplicates in this dataset.
+- Remove Duplicates - There are no duplicates in this dataset.
 - **Standardize the Data** - Extract YouTube channel names from the first column and rename columns using appropriate aliases.
-- **Remove null (or blank Values)** - We do not need columns with NULL or blank values in this case.
-- **Remove unnecessary** - Eliminate irrelevant columns by selecting only the relevant ones (creating a special view).
+- Remove null (or blank Values) - We do not need columns with NULL or blank values in this case.
+- **Remove unnecessary Columns** - Eliminate irrelevant columns by selecting only the relevant ones (creating a special view).
+
+**1. Standardize data**
+![1. step of data cleaning](assets/images/1.step-standardize_data.png)
+
+**2. Create the SQL view**
+![2. step of data cleaning](assets/images/2.step-create_view.png)
