@@ -158,29 +158,39 @@ No column should contain null values.
 
 - What quality data checks are necessary to create? 
 - What data validation do we need to ensure the dataset?
+We need to check following informations:
 
-The following data quality checks have been performed:
-Each test was designed to ensure the dataset is accurate, consistent, and ready for analysis.
-
-**Row count check**
-
-- Number of YouTubers - Top 100 
-  
 | Property         | Number       |
 |------------------|--------------|
 | Number of Rows   | 100          |  
+| Number of Columns| 5            |  
 
+| Column Name        | Data Type |
+|--------------------|-----------|
+| channel_name       | NVARCHAR  |
+| total_subscribers  | INTEGER   |
+| total_views        | INTEGER   |
+| total_videos       | INTEGER   |
+| engagement_rate    | FLOAT     |
+
+The following data quality checks have been performed to ensure the dataset is accurate, consistent, and ready for analysis.
+
+**Row count check**
+  
 - SQL Query with output:
 
 ![number of rows](assets/images/number_of_rows.png)
 
 **Column count check**
-- Number of needed columns - 5 (Channel_Name, Total_Subscribers, Total_Views, Total_Videos and Engagement_Rate)
   
-| Property         | Number       |
-|------------------|--------------|
-| Number of Columns| 5            |  
+- SQL Query with output:
+  
+![number of columns](assets/images/number_of_columns.png)  
+
+**Column name check**
 
 - SQL Query with output:
   
-![number of columns](assets/images/number_of_columns.png)
+![number of columns](assets/images/column_name_check.png)  
+
+
