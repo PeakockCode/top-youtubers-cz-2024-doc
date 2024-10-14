@@ -179,7 +179,7 @@ The following data quality checks have been performed to ensure the dataset is a
   
 - SQL Query with output:
 
-![number of rows](assets/images/number_of_rows.png)
+<img src="assets/images/number_of_rows.png" alt="number of rows" style="border: 2px solid black;"/>
 
 **Column count check**
   
