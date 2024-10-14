@@ -238,12 +238,25 @@ The following data quality checks have been performed to ensure the dataset is a
   
 ### Visualization, Analysis and conclusion
 
-#### Data visualization  
-
-##### Final results  
+#### Data Visualization Results  
 
 - Dashboard visualization in Power BI shows Top Czech Youtubers in 2024:
 
 <img src="assets/images/TopYouTubers_CZ2024_DashboardImage.png" alt="dashboard"/>  
 
+#### Measures
+
+#### DAX Measures in Power BI
+
+1. Total Subscribers (M)
+
+<img src="assets/images/total_subscribers.png" alt="total subscribers"/>  
+
+3. Total Videos 
+
+4. Total Views (M)   
+
+5. Average Views Per Video (M)
+
+6. Views per subscriber
 
