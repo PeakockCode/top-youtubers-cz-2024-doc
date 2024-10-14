@@ -27,6 +27,7 @@ The necessary data about the top YouTubers in the Czech Republic for 2024 includ
 - Number of subscribers
 - Number of views
 - Number of uploaded videos
+- Engagement rate
 - etc.
 
 Source of the data: 
@@ -117,7 +118,7 @@ In the next phase, we gain an overview of what the data contains, identifying er
 
 - What are our findings from the initial exploration of the data? What has caught our attention? What initial shortcomings do we see, and are we satisfied with the quality and quantity of the data?
 
- - We are determining whether we have sufficient data: In our case, we focus on whether we have at least four essential columns that contain the data needed for this analysis (see the section on necessary data to achieve the goal). If this is not the case, we would need to contact the client (marketing department) for further information.
+ - We are determining whether we have sufficient data: In our case, we focus on whether we have at least five essential columns that contain the data needed for this analysis (see the section on necessary data to achieve the goal). If this is not the case, we would need to contact the client (marketing department) for further information.
 
 - The first column contains not only the channel name but also the channel ID. The data are separated by the @ symbol, which will help us extract the names.
 
@@ -126,3 +127,20 @@ In the next phase, we gain an overview of what the data contains, identifying er
 - We actually have more data than we currently need. Therefore, it is also necessary to focus on this and decide whether we will remove some of these columns and how we will do so.
 
 #### Data cleaning and preparation
+
+The aim is to modify our dataset to ensure it is organized and ready for analysis.
+
+##### The processed data should meet the following criteria and limitations:
+
+Only relevant columns should be kept.
+We should remove all duplicates in the relevant columns.
+We need to standardize the data (rename column names, retrieve unambiguous identifiers such as IDs, channel names, etc.).
+The data types in the columns must be suitable for the data in each column.
+No column should contain null values.
+
+##### What steps are needed to clean and modify the data into the required format?
+
+- **Remove Duplicates** - There are no duplicates in this dataset.
+- **Standardize the Data** - Extract YouTube channel names from the first column and rename columns using appropriate aliases.
+- **Remove null (or blank Values)** - We do not need columns with NULL or blank values in this case.
+- **Remove unnecessary** - Eliminate irrelevant columns by selecting only the relevant ones (creating a special view).
