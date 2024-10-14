@@ -158,7 +158,10 @@ No column should contain null values.
 
 - What quality data checks are necessary to create? 
 - What data validation do we need to ensure the dataset?
-We need to check following informations:
+  
+We need to check following informations:  
+
+**Number of rows and columns**  
 
 <table>
   <tr>
@@ -174,6 +177,8 @@ We need to check following informations:
     <td style="text-align: center;">5</td>
   </tr>
 </table>  
+
+**Data types a column names**  
 
 <table>
   <tr>
