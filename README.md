@@ -165,6 +165,7 @@ We need to check following informations:
 | Number of Rows   | 100          |  
 | Number of Columns| 5            |  
 
+  
 | Column Name        | Data Type |
 |--------------------|-----------|
 | channel_name       | NVARCHAR  |
@@ -179,7 +180,7 @@ The following data quality checks have been performed to ensure the dataset is a
   
 - SQL Query with output:
 
-<img src="assets/images/number_of_rows.png" alt="number of rows" style="border: 2px solid black;"/>
+<img src="assets/images/number_of_rows.png" alt="number of rows" style="border: 1px black;"/>
 
 **Column count check**
   
