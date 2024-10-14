@@ -4,10 +4,13 @@
 ![YouTube image](assets/images/youTubers.jpg)
 
 ## Intention
-The marketing department wants to identify and analyze the top YouTubers in the Czech Republic for 2024 to determine which content creators would be the best fit for marketing campaigns next year. They want to focus on the YouTube channels of the top 100 YouTubers.
+
+### What is the goal?
+The marketing department wants to identify and analyze the top YouTubers in the Czech Republic for 2024 to determine which content creators would be the best fit for marketing campaigns next year. They want to focus on the YouTube channels of the top 100 YouTubers and would like to know if it is sufficient to use public sources to obtain the data.
 
 ### Solution Idea
-The goal is to create a dashboard that provides information to help the marketing team make informed decisions about which YouTubers are right to cooperate with or determine whether additional information is needed. The dashboard should include key metrics such as:
+We need to identify the metrics and KPIs that we can use to compare the data..
+The goal is to create a dashboard that provides information to help the marketing team make informed decisions about which YouTubers are the right fit for collaboration or to determine whether additional information is needed. The dashboard should include key metrics such as:
 - Number of subscribers
 - Total views per YouTuber
 - Total uploaded videos per YouTuber
@@ -15,6 +18,7 @@ The goal is to create a dashboard that provides information to help the marketin
 - etc.
 
 ## Data origin
+We need to identify all the necessary data and determine the data sources required to reach our goal. It is also important to consider data storage, the size of the dataset we need, how often we need to refresh the data, and other relevant factors.
 
 **What data set is required to reach our goals?**  
 
@@ -26,8 +30,9 @@ The necessary data about the top YouTubers in the Czech Republic for 2024 includ
 - etc.
 
 Source of the data: 
-1) <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">Ranking of the top Czech YouTubers</a>
-2) <a href="https://developers.google.com/youtube/v3/getting-started" target="_blank">YouTube API</a>
+1) <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">Ranking of the top Czech YouTubers</a>  
+2) <a href="https://developers.google.com/youtube/v3/getting-started" target="_blank">YouTube API</a>  
+3) <a href="https://hypeauditor.com" target="_blank">Other statistics</a>
 
 ## Project Steps
 
@@ -47,11 +52,20 @@ To outline the content, we first need to identify some key questions that the da
 - Who are the leading YouTubers by number of subscribers?
 - Which channels have uploaded the most videos?
 - Which channels have the most views?
-- Which channels achieve the highest average views for each video?
-- Which channels have the best views per subscriber ratio?
-- Which channels display the strongest engagement rate per video?
+- Which channels achieve the highest average views per video?
+- Which channels have the best views to subscriber ratio?
+- Which channels display the strongest subscriber engagement rate?
 
 These are some initial questions we aim to answer to reach our goal.
+
+#### Dashboard Visualization
+
+The data visuals that will be suitable for answering our questions include:  
+Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations such as Treemaps.
+
+**Dasbhoard mockup:**
+
+![Dasbhoard mockup](assets/images/TopYouTubers_CZ2024_DashboardMockup.png)
 
 #### Tools requirements
 
@@ -80,16 +94,6 @@ These are some initial questions we aim to answer to reach our goal.
   </tr>
 </table>
 
-
-#### Dashboard Visualization
-
-The data visuals that will be suitable for answering our questions include:  
-Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations such as Treemaps.
-
-**Dasbhoard mockup:**
-
-![Dasbhoard mockup](assets/images/TopYouTubers_CZ2024_DashboardMockup.png)
-
 ### Project building
 
 #### General Workflow
@@ -104,5 +108,21 @@ What’s the overall process to develop the solution?
 - Data Visualization: Create visual representations of the data in Power BI or Tableau.
 - Insights Formulation: Derive findings and conclusions based on the visualized data.
 - Documentation: Prepare documentation (including commentary) to support the final conclusions.
-- Publishing: Share the final data and insights (in my case on GitHub Pages).
+- Sharing: Share the final visualizations, recommendations, and documentation with the marketing department
+- Feedback: Gather feedback from the marketing department/client and make any necessary adjustments to the project (this usually involves revisiting previous steps and should be part of every previous step).
 
+#### Data exploration
+
+In the next phase, we gain an overview of what the data contains, identifying errors, inconsistencies, and any other issues (e.g., unknown characters, corrupted text, etc.).
+
+- What are our findings from the initial exploration of the data? What has caught our attention? What initial shortcomings do we see, and are we satisfied with the quality and quantity of the data?
+
+ - We are determining whether we have sufficient data: In our case, we focus on whether we have at least four essential columns that contain the data needed for this analysis (see the section on necessary data to achieve the goal). If this is not the case, we would need to contact the client (marketing department) for further information.
+
+- The first column contains not only the channel name but also the channel ID. The data are separated by the @ symbol, which will help us extract the names.
+
+- Some columns contain incorrect data formats or even missing data. It is necessary to confirm whether these columns are needed, and if so, we will address them further during the data preparation.
+
+- We actually have more data than we currently need. Therefore, it is also necessary to focus on this and decide whether we will remove some of these columns and how we will do so.
+
+#### Data cleaning and preparation
