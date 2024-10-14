@@ -242,6 +242,8 @@ The following data quality checks have been performed to ensure the dataset is a
 
 ##### Final results  
 
-- Dashboard visualization in Power BI:
+- Dashboard visualization in Power BI shows Top Czech Youtubers in 2024:
 
-<img src="assets/images/DashboardVideo.gif" alt="dashboard"/>
+<img src="assets/images/TopYouTubers_CZ2024_DashboardImage.png" alt="dashboard"/>  
+
+
