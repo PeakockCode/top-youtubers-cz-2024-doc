@@ -39,8 +39,8 @@ Source of the data:
 
 - Design
 - Project building
-- Testing
-- Analysis and conclusion
+- Data cleaning and testing
+- Visualization, Analysis and conclusion
 
 ### Dashboard Design
 
@@ -126,6 +126,8 @@ In the next phase, we gain an overview of what the data contains, identifying er
 
 - We actually have more data than we currently need. Therefore, it is also necessary to focus on this and decide whether we will remove some of these columns and how we will do so.
 
+### Data cleaning and testing
+
 #### Data cleaning and preparation
 
 The aim is to modify our dataset to ensure it is organized and ready for analysis.
@@ -154,7 +156,7 @@ No column should contain null values.
 <img src="assets/images/2.step-create_view.png" alt="2. step of data cleaning" style="border: 0.5px solid black;"/>
 
 
-### Testing
+#### Data testing
 
 - What quality data checks are necessary to create? 
 - What data validation do we need to ensure the dataset?
@@ -234,3 +236,7 @@ The following data quality checks have been performed to ensure the dataset is a
 
 <img src="assets/images/duplicates_check.png" alt="duplicates" style="border: 0.5px solid black;"/>
   
+### Visualization, Analysis and conclusion
+
+#### Data visualization  
+
