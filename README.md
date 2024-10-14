@@ -160,12 +160,47 @@ No column should contain null values.
 - What data validation do we need to ensure the dataset?
 We need to check following informations:
 
-| Property         | Number       |
-|------------------|--------------|
-| Number of Rows   | 100          |  
-| Number of Columns| 5            |  
+<table>
+  <tr>
+    <th style="text-align: center;">Property</th>
+    <th style="text-align: center;">Number</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Number of Rows</td>
+    <td style="text-align: center;">100</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Number of Columns</td>
+    <td style="text-align: center;">5</td>
+  </tr>
+</table>
 
-  
+<table>
+  <tr>
+    <th style="text-align: center;">Column Name</th>
+    <th style="text-align: center;">Data Type</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">channel_name</td>
+    <td style="text-align: center;">NVARCHAR</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">total_subscribers</td>
+    <td style="text-align: center;">INTEGER</td>
+  </tr>
+    <tr>
+    <td style="text-align: center;">total_views</td>
+    <td style="text-align: center;">NVARCHAR</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">total_videos</td>
+    <td style="text-align: center;">INTEGER</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">engagement_rate</td>
+    <td style="text-align: center;">FLOAT</td>
+  </tr>
+</table>  
   
 | Column Name        | Data Type |
 |--------------------|-----------|
