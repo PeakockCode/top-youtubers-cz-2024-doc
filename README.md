@@ -173,7 +173,7 @@ We need to check following informations:
     <td style="text-align: center;">Number of Columns</td>
     <td style="text-align: center;">5</td>
   </tr>
-</table>
+</table>  
 
 <table>
   <tr>
@@ -201,14 +201,6 @@ We need to check following informations:
     <td style="text-align: center;">FLOAT</td>
   </tr>
 </table>  
-  
-| Column Name        | Data Type |
-|--------------------|-----------|
-| channel_name       | NVARCHAR  |
-| total_subscribers  | INTEGER   |
-| total_views        | INTEGER   |
-| total_videos       | INTEGER   |
-| engagement_rate    | FLOAT     |
 
 The following data quality checks have been performed to ensure the dataset is accurate, consistent, and ready for analysis.
 
