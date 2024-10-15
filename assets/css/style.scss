@@ -40,7 +40,7 @@
 body {
   //padding: 20;
   //margin: 30;
-  margin-bottom: 60px;
+  margin-bottom: 50px;
   font-family: Arial, sans-serif;
 }
 
@@ -51,9 +51,9 @@ body {
 // print
 @media print {
     body {
-    margin: 20;
-    padding: 30;
-    margin-bottom: 60px;
+    margin: 10;
+    padding: 20;
+    margin-bottom: 50px;
   }
   body:after {
     content: "© 2024 Data with MP";
