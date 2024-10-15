@@ -149,11 +149,11 @@ No column should contain null values.
 
 **1. Standardize data**  
 
-<img src="assets/images/1.step-standardize_data.png" alt="1. step of data cleaning" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/cleaning/1.step-standardize_data.png" alt="1. step of data cleaning" style="border: 0.5px solid black;"/>
 
 **2. Create the SQL view**   
 
-<img src="assets/images/2.step-create_view.png" alt="2. step of data cleaning" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/cleaning/2.step-create_view.png" alt="2. step creating view" style="border: 0.5px solid black;"/>
 
 
 #### Data testing
@@ -214,27 +214,27 @@ The following data quality checks have been performed to ensure the dataset is a
 **Row count check**
 - SQL Query with output:
 
-<img src="assets/images/number_of_rows.png" alt="number of rows" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/number_of_rows.png" alt="number of rows" style="border: 0.5px solid black;"/>
 
 **Column count check**
 - SQL Query with output:
 
-<img src="assets/images/number_of_columns.png" alt="number of columns" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/number_of_columns.png" style="border: 0.5px solid black;"/>
 
 **Column name check**
 - SQL Query with output:  
   
-<img src="assets/images/column_name_check.png" alt="name of columns" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/column_name_check.png" alt="name of columns" style="border: 0.5px solid black;"/>
 
 **Data type check** 
 - SQL Query with output:
 
-<img src="assets/images/data_type_check.png" alt="data types" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/data_type_check.png" alt="data types" style="border: 0.5px solid black;"/>
 
 **Duplicate count check**  
 - SQL Query with output:
 
-<img src="assets/images/duplicates_check.png" alt="duplicates" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/duplicates_check.png" alt="duplicates" style="border: 0.5px solid black;"/>
   
 ### Visualization, Analysis and conclusion
 
