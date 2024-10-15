@@ -53,11 +53,11 @@ body {
     margin: 20mm 10mm;
   }
   @page {
-  @bottom-center {
-    content: "© 2024 Data with MP";
-    margin-bottom: 10mm;
+    @bottom-center {
+      content: "© 2024 Data with MP";
+      margin-bottom: 5mm;
+    }
   }
-}
   body {
     position: relative;
     padding-bottom: 50px;
@@ -73,6 +73,7 @@ body {
     z-index: 1;
     pointer-events: none;
   }
+}
    //body::after {
      //content: "© 2024 Data with MP";
      //position: fixed;
@@ -88,4 +89,4 @@ body {
   //padding-top: 1rem;
   //margin-top: 1rem;
   //}
-}
+
