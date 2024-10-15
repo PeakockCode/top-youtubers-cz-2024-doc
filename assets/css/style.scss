@@ -54,7 +54,7 @@ body {
   }
   body {
     position: relative;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
   }
   body::before {
     content: "PREVIEW";
@@ -70,7 +70,7 @@ body {
 
    body::after {
      content: "© 2024 Data with MP";
-     position: fixed;
+     position: absolute;
      bottom: 0;
      left: 0;
      width: 100%;
@@ -80,8 +80,8 @@ body {
      padding: 10px;
      margin-top: 2rem;
   }
+}
   //.site-footer {
   //padding-top: 1rem;
   //margin-top: 1rem;
   //}
-}
