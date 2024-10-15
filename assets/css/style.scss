@@ -37,11 +37,10 @@
 } */
 
 // normal style
-//body {
-  //padding: 20;
-  //margin: 30;
-  //margin-bottom: 50px;
-  //font-family: Arial, sans-serif;
+body {
+  padding: 20;
+  margin: 20;
+  font-family: Arial, sans-serif;
 //}
 
 //.site-footer {
@@ -56,7 +55,7 @@
   @page {
   @bottom-center {
     content: "© 2024 Data with MP";
-    margin-bottom: 5mm;
+    margin-bottom: 10mm;
   }
 }
   body {
