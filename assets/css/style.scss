@@ -51,7 +51,7 @@ body {
 // print
 @media print {
   @page {
-    margin: 5mm;
+    margin: 10mm;
   }
   body {
     position: relative;
@@ -77,6 +77,7 @@ body {
     font-size: 12px;
     color: gray;
     padding: 10px;
+    margin-top: 10px;
   }
   //.site-footer {
   //padding-top: 1rem;
