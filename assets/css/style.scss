@@ -44,6 +44,10 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.site-footer {
+  padding-top: 4rem;
+  margin-top: 4rem;
+}
 // print
 @media print {
   body:after {
@@ -56,8 +60,5 @@ body {
     font-size: 12px;
     color: gray;
     padding: 10px;
-  }
-  .site-footer {
-    margin-top: 4rem;
   }
 }
