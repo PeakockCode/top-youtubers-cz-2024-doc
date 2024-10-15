@@ -65,7 +65,7 @@ body {
     transform: translate(-50%, -50%) rotate(-45deg);
     font-size: 50px; // Velikost písma
     color: rgba(255, 0, 0, 0.5); // Barva s průhledností
-    z-index: -1; // Udržuje text pod ostatními prvky
+    z-index: 1; // Udržuje text pod ostatními prvky
     pointer-events: none; // Zajišťuje, že text neovlivní interakce uživatele
   }
   body::after {
