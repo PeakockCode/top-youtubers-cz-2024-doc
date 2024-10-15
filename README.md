@@ -250,7 +250,7 @@ The following data quality checks have been performed to ensure the dataset is a
 
 1. Total Subscribers (M)
 
-<img src="assets/images/total_subscribers.png" alt="total subscribers"/>  
+<img src="assets/images/dax_measures/total_subscribers.png" alt="total subscribers"/>  
 
 3. Total Videos 
 
