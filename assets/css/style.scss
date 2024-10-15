@@ -51,9 +51,19 @@ body {
 // print
 @media print {
     body {
-    margin: 10;
-    padding: 20;
-    margin-bottom: 50px;
+    position: relative;
+  }
+  body::before {
+    content: "PREVIEW";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 5rem;
+    color: rgba(0, 0, 0, 0.1);
+    white-space: nowrap;
+    z-index: -1;
+    pointer-events: none;
   }
   body:after {
     content: "© 2024 Data with MP";
