@@ -304,5 +304,18 @@ These are the main questions we need to address for our marketing client:
 | 9    | FIZIstyle                     |       1.16      |
 | 10   | Mr. Michal                    |       1.12      |  
 
+**2. Which 10 channels have posted the most content?** 
 
+| Rank | Channel Name                      | Total Videos |
+|------|-----------------------------------|:------------:|
+| 1    | Radio Free Europe/Radio Liberty   |    9,649     |
+| 2    | Totalfilm.cz                      |    7,812     |
+| 3    | Алексей Ворон                     |    5,001     |
+| 4    | Godzu                             |    3,743     |
+| 5    | Agraelus                          |    3,315     |
+| 6    | Sterakdary                        |    3,085     |
+| 7    | MenT                              |    3,045     |
+| 8    | Alkanhraje                        |    2,952     |
+| 9    | PedrosGame                        |    2,827     |
+| 10   | Alexander Zakshevsky              |    2,780     |  
 
