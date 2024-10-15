@@ -43,10 +43,6 @@ body {
   font-family: Arial, sans-serif;
 }
 
-//.site-footer {
-  //padding-top: 1rem;
-  //margin-top: 1rem;
-//}
 // print
 @media print {
   @page {
@@ -68,9 +64,8 @@ body {
     pointer-events: none;
   }
 
-   body::after {
-     content: "© 2024 Data with MP";
-     position: absolute;
+   .site-footer {
+     position: fixed;
      bottom: 0;
      left: 0;
      width: 100%;
@@ -78,10 +73,7 @@ body {
      font-size: 12px;
      color: gray;
      padding: 10px;
-     margin-top: 2rem;
+     margin-top: 20px;
+     background: white;
   }
 }
-  //.site-footer {
-  //padding-top: 1rem;
-  //margin-top: 1rem;
-  //}
