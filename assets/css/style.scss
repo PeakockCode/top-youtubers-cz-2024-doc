@@ -46,14 +46,14 @@ body {
 // print
 @media print {
   @page {
-    margin-top: 0; 
+    margin-top: 5mm; 
     margin-left: 10mm;
     margin-right: 10mm;
     margin-bottom: 20mm;
   }
   body {
     position: relative;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
   }
 
   main::before {
@@ -67,6 +67,7 @@ body {
     color: gray;
     background: white;
     padding: 10px;
+    margin: 10px;
     z-index: 1000;
     pointer-events: none;
   }
