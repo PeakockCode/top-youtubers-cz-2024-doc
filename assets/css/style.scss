@@ -50,6 +50,11 @@ body {
 }
 // print
 @media print {
+    body {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 50px;
+  }
   body:after {
     content: "© 2024 Data with MP";
     position: fixed;
@@ -60,9 +65,10 @@ body {
     font-size: 12px;
     color: gray;
     padding: 10px;
+    margin-bottom: 20px;
   }
   .site-footer {
   padding-top: 2rem;
-  margin-top: 2rem;
+  margin-top: 4rem;
   }
 }
