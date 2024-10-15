@@ -248,15 +248,29 @@ The following data quality checks have been performed to ensure the dataset is a
 
 #### DAX Measures in Power BI
 
-1. Total Subscribers (M)
+1. Total Subscribers (M)  
 
 <img src="assets/images/dax_measures/total_subscribers.png" alt="total subscribers"/>  
 
-3. Total Videos 
+2. Total Videos  
 
-4. Total Views (M)   
+<img src="assets/images/dax_measures/total_videos.png" alt="total videos"/>  
 
-5. Average Views Per Video (M)
+3. Total Views (M)  
 
-6. Views per subscriber
+<img src="assets/images/dax_measures/total_views.png" alt="total views"/>  
+
+4. Average Views Per Video (M)  
+
+<img src="assets/images/dax_measures/avg_views_per_video.png" alt="avg views per video"/>  
+
+5. Engagement Rate (%)  
+
+<img src="assets/images/dax_measures/engagement_rate.png" alt="engagement rate"/>  
+
+6. Views per subscriber  
+
+<img src="assets/images/dax_measures/views_per_subscriber.png" alt="views per subscriber"/>  
+
+#### Analysis
 
