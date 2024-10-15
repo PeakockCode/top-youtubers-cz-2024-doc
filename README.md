@@ -246,7 +246,7 @@ The following data quality checks have been performed to ensure the dataset is a
 
 #### Measures
 
-#### DAX Measures in Power BI
+##### DAX Measures in Power BI
 
 1. Total Subscribers (M)  
 
@@ -272,5 +272,37 @@ The following data quality checks have been performed to ensure the dataset is a
 
 <img src="assets/images/dax_measures/views_per_subscriber.png" alt="views per subscriber"/>  
 
+##### Tableau Measures  
+
 #### Analysis
+
+##### Findings
+- What did we find?  
+For this analysis, we're going to focus on the questions that should provide answers to the marketing client.
+
+These are the main questions we need to address for our marketing client:
+
+- Who are the 10 YouTubers with the biggest subscriber base?
+- Which 10 channels have posted the most content?
+- Which 10 channels have the highest total view count?
+- Which 10 channels get the highest average views per video?
+- Which 10 channels have the best views-to-subscriber ratio?
+- Which 10 channels show the highest subscriber engagement rate per video?
+
+**1. Who are the top 10 YouTubers with the most subscribers?**  
+
+| Rank | Channel Name                  | Subscribers (M) |
+|------|-------------------------------|-----------------|
+| 1    | Silvie Mahdal                 |       2.64      |
+| 2    | Puzzle guy                    |       2.56      |
+| 3    | MenT                          |       1.54      | 
+| 4    | HONEST GUIDE                  |       1.40      |
+| 5    | Adam Something                |       1.28      |
+| 6    | Alexander Zakshevsky          |       1.25      |
+| 7    | Игорь Линк                    |       1.25      |
+| 8    | DIY crafts from A4 PAPER      |       1.22      |
+| 9    | FIZIstyle                     |       1.16      |
+| 10   | Mr. Michal                    |       1.12      |  
+
+
 
