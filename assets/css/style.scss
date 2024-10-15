@@ -55,15 +55,14 @@ body {
   }
   body::before {
     content: "PREVIEW";
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 5rem;
-    color: rgba(0, 0, 0, 0.1);
-    white-space: nowrap;
-    z-index: -1;
-    pointer-events: none;
+    position: fixed; // Fixe pozici vůči stránce
+    top: 0; // Umístí text na vrchol stránky
+    left: 50%; // Horizontální centrování
+    transform: translateX(-50%); // Vertikální centrování
+    font-size: 50px; // Velikost písma
+    color: rgba(255, 0, 0, 0.5); // Barva s průhledností
+    z-index: -1; // Udržuje text pod ostatními prvky
+    pointer-events: none; // Zajišťuje, že text neovlivní interakce uživatele
   }
   body::after {
     content: "© 2024 Data with MP";
@@ -76,9 +75,9 @@ body {
     color: gray;
     padding: 10px;
     margin-bottom: 20px;
-  }
-  .site-footer {
-  padding-top: 1rem;
-  margin-top: 1rem;
-  }
+  //}
+  //.site-footer {
+  //padding-top: 1rem;
+  //margin-top: 1rem;
+  //}
 }
