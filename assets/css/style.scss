@@ -46,7 +46,10 @@ body {
 // print
 @media print {
   @page {
-    margin: 10mm 10mm;
+    margin-top: 5mm; 
+    margin-left: 10mm;
+    margin-right: 10mm;
+    margin-bottom: 15mm;
   }
   body {
     position: relative;
