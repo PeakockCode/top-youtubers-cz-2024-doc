@@ -65,7 +65,7 @@ body {
     z-index: -1;
     pointer-events: none;
   }
-  body:after {
+  body::after {
     content: "© 2024 Data with MP";
     position: fixed;
     bottom: 0;
