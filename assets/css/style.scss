@@ -50,7 +50,10 @@ body {
 }
 // print
 @media print {
-    body {
+  @page {
+    margin: 20mm;
+  }
+  body {
     position: relative;
   }
   body::before {
