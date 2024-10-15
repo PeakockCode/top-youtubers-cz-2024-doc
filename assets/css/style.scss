@@ -59,10 +59,10 @@ body {
   }
   body::before {
     content: "PREVIEW";
-    position: fixed; // Fixe pozici vůči stránce
-    top: 0; // Umístí text na vrchol stránky
+    position: fixed;
+    top: 50%; 
     left: 50%; // Horizontální centrování
-    transform: translateX(-50%); // Vertikální centrování
+    transform: translate(-50%, -50%) rotate(-45deg);
     font-size: 50px; // Velikost písma
     color: rgba(255, 0, 0, 0.5); // Barva s průhledností
     z-index: -1; // Udržuje text pod ostatními prvky
