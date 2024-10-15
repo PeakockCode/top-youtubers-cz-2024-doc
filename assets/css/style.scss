@@ -52,12 +52,6 @@ body {
   @page {
     margin: 20mm 10mm;
   }
-  @page {
-    @bottom-center {
-      content: "© 2024 Data with MP";
-      margin-bottom: 5mm;
-    }
-  }
   body {
     position: relative;
     padding-bottom: 50px;
@@ -73,20 +67,21 @@ body {
     z-index: 1;
     pointer-events: none;
   }
-}
-   //body::after {
-     //content: "© 2024 Data with MP";
-     //position: fixed;
-     //bottom: 0;
-     //left: 0;
-     //width: 100%;
-     //text-align: center;
-     //font-size: 12px;
-     //color: gray;
-     //padding: 10px;
-  //}
+
+   body::after {
+     content: "© 2024 Data with MP";
+     position: fixed;
+     bottom: 0;
+     left: 0;
+     width: 100%;
+     text-align: center;
+     font-size: 12px;
+     color: gray;
+     padding: 10px;
+     margin-top: 1rem;
+  }
   //.site-footer {
   //padding-top: 1rem;
   //margin-top: 1rem;
   //}
-
+}
