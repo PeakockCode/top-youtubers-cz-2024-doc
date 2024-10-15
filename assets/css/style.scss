@@ -38,8 +38,6 @@
 
 // normal style
 body {
-  padding: 20;
-  margin: 20;
   font-family: Arial, sans-serif;
 }
 
@@ -54,6 +52,7 @@ body {
   body {
     position: relative;
     padding-bottom: 30px;
+    margin-bottom: 10px;
   }
 
   main::before {
@@ -82,7 +81,7 @@ body {
     z-index: 1;
     pointer-events: none;
   }
-
+    
    .site-footer-owner {
      position: fixed;
      bottom: 0;
