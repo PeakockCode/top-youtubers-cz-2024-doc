@@ -314,14 +314,29 @@ These are the main questions we need to have answered for our marketing client:
 
 | Rank | Channel Name                      | Total Videos |
 |------|-----------------------------------|:------------:|
-| 1    | Radio Free Europe/Radio Liberty   |    9,649     |
-| 2    | Totalfilm.cz                      |    7,812     |
-| 3    | Алексей Ворон                     |    5,001     |
-| 4    | Godzu                             |    3,743     |
-| 5    | Agraelus                          |    3,315     |
-| 6    | Sterakdary                        |    3,085     |
-| 7    | MenT                              |    3,045     |
-| 8    | Alkanhraje                        |    2,952     |
-| 9    | PedrosGame                        |    2,827     |
-| 10   | Alexander Zakshevsky              |    2,780     |  
+| 1    | Radio Free Europe/Radio Liberty   |     9,649    |
+| 2    | Totalfilm.cz                      |     7,812    |
+| 3    | Алексей Ворон                     |     5,001    |
+| 4    | Godzu                             |     3,743    |
+| 5    | Agraelus                          |     3,315    |
+| 6    | Sterakdary                        |     3,085    |
+| 7    | MenT                              |     3,045    |
+| 8    | Alkanhraje                        |     2,952    |
+| 9    | PedrosGame                        |     2,827    |
+| 10   | Alexander Zakshevsky              |     2,780    |  
+
+**3. Which 10 channels have the highest total view count?**  
+
+| Rank | Channel Name                          |  Total Videos (M) |
+|:---- |:--------------------------------------|:-----------------:|
+| 1    | Puzzle guy                            |      1,607.53     |
+| 2    | MenT                                  |        910.00     |
+| 3    | Baxtrix                               |        776.72     |
+| 4    | FIZIstyle                             |        733.69     |
+| 5    | Milion Plus                           |        675.20     |
+| 6    | SirYakari                             |        620.42     |
+| 7    | Štístko a Poupěnka                    |        602.02     |
+| 8    | ViralBrothers SHOW                    |        552.84     |
+| 9    | Blakkwood Records                     |        540.98     |
+| 10   | Radio Free Europe/Radio Liberty       |        535.21     |
 
