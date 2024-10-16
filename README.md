@@ -389,4 +389,11 @@ In this analysis, we will primarily prioritize the key metrics essential for ach
 
 These metrics will be used in three simulation scenarios through which we will attempt to find suitable YouTubers. These scenarios will help us evaluate different approaches and campaign costs, allowing us to visualize the varying profitability of individual campaigns.
 
+##### Scenarios  
 
+**1. Scenario - Collaboration with YouTubers with the Most Subscribers**  
+
+The idea of this scenario is to consider the profitability of product placements in videos by collaborating with YouTubers who have the highest number of subscribers.
+
+
+**2. Scenario** 
