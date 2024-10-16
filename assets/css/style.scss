@@ -44,12 +44,11 @@ body {
 // print
 @media print {
   @page {
-    margin: 5mm; 
+    margin: 10px; 
   }
   body {
     position: relative;
-    padding-bottom: 30px;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
   }
   body::before {
     content: "PREVIEW";
@@ -64,7 +63,7 @@ body {
   }
 
   .main-content > *:not(footer) {
-    padding: 20px;
+    padding: 30px;
     margin-bottom: 20px;
   }
   
