@@ -44,7 +44,8 @@ body {
 // print
 @media print {
   @page {
-    margin: 10px; 
+    margin: 20px;
+    padding: 10px;
   }
   body {
     position: relative;
