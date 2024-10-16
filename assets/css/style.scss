@@ -51,7 +51,26 @@ body {
     position: relative;
     padding-bottom: 50px;
   }
+  header {
+    display: none;
+  }
   body::before {
+    content: "CZECH TOP YOUTUBERS 2024 maintained by PeakockCode";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 8px;
+    color: gray;
+    background: white;
+    padding: 5px;
+    margin-bottom: 2px;
+    z-index: 1000;
+    pointer-events: none;
+  }
+  
+  body::after {
     content: "PREVIEW";
     position: fixed;
     top: 50%; 
@@ -68,22 +87,7 @@ body {
     margin-bottom: 20px;
   }
   
-  main::before {
-    content: "CZECH TOP YOUTUBERS 2024 maintained by PeakockCode";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    text-align: center;
-    font-size: 8px;
-    color: gray;
-    background: white;
-    padding: 5px;
-    margin-bottom: 2px;
-    z-index: 1000;
-    pointer-events: none;
-  }
-    
+   
    .site-footer-owner {
      position: fixed;
      bottom: 0;
