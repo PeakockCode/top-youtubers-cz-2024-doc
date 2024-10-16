@@ -149,7 +149,7 @@ No column should contain null values.
 
 **1. Standardize data**  
 
-<img src="assets/images/sql/cleaning/1.step-standardize_data.png" alt="1. step of data cleaning" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/cleaning/1.step-standardize_data3.png" alt="1. step of data cleaning" style="border: 0.5px solid black;"/>
 
 **2. Create the SQL view**   
 
