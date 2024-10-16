@@ -353,5 +353,36 @@ These are the main questions we need to have answered for our marketing client:
 | 7    | Pat a Mat                  |           3.48           |
 | 8    | Silvie Mahdal              |           3.48           |
 | 9    | Slza                       |           3.35           |
-| 10   | Ben Cristovao              |           2.26           |
+| 10   | Ben Cristovao              |           2.26           |  
 
+**5. Which 10 channels have the best views-to-subscriber ratio?**
+
+| Rank | Channel Name               | Views Per Subscriber |
+|:---- |:---------------------------|:--------------------:|
+| 1    | Štístko a Poupěnka         |         1568         |
+| 2    | Totalfilm.cz               |         1146         |
+| 3    | tynikdy                    |         1143         |
+| 4    | Milion Plus                |         1089         |
+| 5    | Blakkwood Records          |         1065         |
+| 6    | Tvoje tvář má známý hlas   |         994          |
+| 7    | Baxtrix                    |         873          |
+| 8    | Pokáčovo Kanál             |         758          |
+| 9    | TOP veci do 2 minut        |         734          |
+| 10   | Alkanhraje                 |         729          |  
+
+**6. Which 10 channels show the highest subscriber engagement rate per video?**
+
+| Rank | Channel Name             |  Engagement Rate  |
+|:---- |:-------------------------|:-----------------:|
+| 1    | Suara Injil              |       14.87%      |
+| 2    | Alexander Zakshevsky     |       13.01%      |
+| 3    | Алексей Ворон            |       12.85%      |
+| 4    | SmusaGames               |        9.91%      |
+| 5    | Wedry                    |        9.28%      |
+| 6    | PIERRE XO                |        9.07%      |
+| 7    | Jmenuju Se Martin        |        8.52%      |
+| 8    | MenT                     |        8.49%      |
+| 9    | NejFake                  |        8.37%      |
+| 10   | Stay12                   |        8.33%      |  
+
+In this analysis, we will primarily focus on the key metrics essential for achieving the expected Return on Investment (ROI) for our marketing client, specifically examining YouTube channels with the highest number of subscribers, total videos uploaded, and total views. By analyzing these metrics, we aim to identify the right YouTubers to optimize our marketing department's efforts on the platform.
