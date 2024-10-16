@@ -391,9 +391,9 @@ These metrics will be used in three simulation scenarios through which we will a
 
 #### Scenarios  
 
-#####**1. Scenario - Collaboration with YouTubers with the Most Subscribers**  
+**1. Scenario - Collaboration with YouTubers with the Most Subscribers**  
 
 The idea of this scenario is to consider the profitability of product placements in videos by collaborating with YouTubers who have the highest number of subscribers.
 
 
-#####**2. Scenario** 
+**2. Scenario** 
