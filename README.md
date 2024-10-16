@@ -266,7 +266,7 @@ The following data quality checks have been performed to ensure the dataset is a
 
 3. Total Views (M)  
 
-<img src="assets/images/dax_measures/total_views4.png" alt="total views"/>  
+<img src="assets/images/dax_measures/total_views5.png" alt="total views"/>  
 
 4. Average Views Per Video (M)  
 
