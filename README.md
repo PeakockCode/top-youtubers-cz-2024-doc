@@ -42,9 +42,9 @@ Source of the data:
 - Data cleaning and testing
 - Visualization, Analysis and conclusion
 
-### Dashboard Design
+## Dashboard Design
 
-#### Required Dashboard Elements
+### Required Dashboard Elements
 
 **What should be included in the dashboard based on the specified requirements?**  
 
@@ -63,7 +63,7 @@ To outline the content, we first need to identify some key questions that the da
 
 These are some initial questions we aim to answer to reach our goal.
 
-#### Dashboard Visualization
+### Dashboard Visualization
 
 The data visuals that will be suitable for answering our questions include:  
 Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations such as Treemaps.
@@ -72,7 +72,7 @@ Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations su
 
 ![Dasbhoard mockup](assets/images/dashboard/TopYouTubers_CZ2024_DashboardMockup.png)
 
-#### Tools requirements
+### Tools requirements
 
 **Tools required for the Process**
 
@@ -99,9 +99,9 @@ Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations su
   </tr>
 </table>
 
-### Project building
+## Project building
 
-#### General Workflow
+### General Workflow
 
 What’s the overall process to develop the solution?
 
@@ -116,7 +116,7 @@ What’s the overall process to develop the solution?
 - Sharing: Share the final visualizations, recommendations, and documentation with the marketing department
 - Feedback: Gather feedback from the marketing department/client and make any necessary adjustments to the project (this usually involves revisiting previous steps and should be part of every previous step).
 
-#### Data exploration
+### Data exploration
 
 In the next phase, we gain an overview of what the data contains, identifying errors, inconsistencies, and any other issues (e.g., unknown characters, corrupted text, etc.).
 
@@ -240,9 +240,9 @@ The following data quality checks have been performed to ensure the dataset is a
 
 <img src="assets/images/sql/data_check/duplicates_check2.png" alt="duplicates" style="border: 0.5px solid black;"/>
   
-### Visualization, Analysis and conclusion
+## Visualization, Analysis and Conclusion
 
-#### Data Visualization Results  
+### Data Visualization 
 
 - Dashboard visualization in Power BI shows Top Czech Youtubers in 2024:
 
@@ -280,9 +280,9 @@ The following data quality checks have been performed to ensure the dataset is a
 
 <img src="assets/images/dax_measures/views_per_subscriber4.png" alt="views per subscriber"/>  
 
-#### Analysis
+### Analysis
 
-##### Findings
+#### Findings
 - What did we find?  
 For this analysis, we're going to focus on the questions that should provide answers to the marketing department.
 
@@ -389,11 +389,11 @@ In this analysis, we will primarily prioritize the key metrics essential for ach
 
 These metrics will be used in three simulation scenarios through which we will attempt to find suitable YouTubers. These scenarios will help us evaluate different approaches and campaign costs, allowing us to visualize the varying profitability of individual campaigns.
 
-##### Scenarios  
+#### Scenarios  
 
-**1. Scenario - Collaboration with YouTubers with the Most Subscribers**  
+#####**1. Scenario - Collaboration with YouTubers with the Most Subscribers**  
 
 The idea of this scenario is to consider the profitability of product placements in videos by collaborating with YouTubers who have the highest number of subscribers.
 
 
-**2. Scenario** 
+#####**2. Scenario** 
