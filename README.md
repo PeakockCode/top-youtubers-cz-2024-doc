@@ -66,7 +66,7 @@ Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations su
 
 **Dasbhoard mockup:**
 
-![Dasbhoard mockup](assets/images/TopYouTubers_CZ2024_DashboardMockup.png)
+![Dasbhoard mockup](assets/images/dashboard/TopYouTubers_CZ2024_DashboardMockup.png)
 
 #### Tools requirements
 
@@ -242,7 +242,11 @@ The following data quality checks have been performed to ensure the dataset is a
 
 - Dashboard visualization in Power BI shows Top Czech Youtubers in 2024:
 
-<img src="assets/images/TopYouTubers_CZ2024_DashboardImage.png" alt="dashboard"/>  
+**Image**
+<img src="assets/images/dashboard/TopYouTubers_CZ2024_DashboardImage.png" alt="dashboard image"/>  
+  
+**Gif**
+<img src="assets/images/dashboard_video/DashboardVideo.gif" alt="dashboard video"/>  
 
 #### Measures
 
