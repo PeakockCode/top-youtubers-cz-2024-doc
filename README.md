@@ -258,11 +258,11 @@ The following data quality checks have been performed to ensure the dataset is a
 
 1. Total Subscribers (M)  
 
-<img src="assets/images/dax_measures/total_subscribers4.png" alt="total subscribers"/>  
+<img src="assets/images/dax_measures/total_subscribers5.png" alt="total subscribers"/>  
 
 2. Total Videos  
 
-<img src="assets/images/dax_measures/total_videos4.png" alt="total videos"/>  
+<img src="assets/images/dax_measures/total_videos5.png" alt="total videos"/>  
 
 3. Total Views (M)  
 
@@ -270,15 +270,15 @@ The following data quality checks have been performed to ensure the dataset is a
 
 4. Average Views Per Video (M)  
 
-<img src="assets/images/dax_measures/avg_views_per_video4.png" alt="avg views per video"/>  
+<img src="assets/images/dax_measures/avg_views_per_video5.png" alt="avg views per video"/>  
 
 5. Engagement Rate  
 
-<img src="assets/images/dax_measures/engagement_rate4.png" alt="engagement rate"/>  
+<img src="assets/images/dax_measures/engagement_rate5.png" alt="engagement rate"/>  
 
 6. Views per subscriber  
 
-<img src="assets/images/dax_measures/views_per_subscriber4.png" alt="views per subscriber"/>  
+<img src="assets/images/dax_measures/views_per_subscriber5.png" alt="views per subscriber"/>  
 
 ### Analysis
 
