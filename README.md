@@ -50,12 +50,16 @@ Source of the data:
 
 To outline the content, we first need to identify some key questions that the dashboard should answer:
 
-- Who are the leading YouTubers by number of subscribers?
-- Which channels have uploaded the most videos?
-- Which channels have the most views?
-- Which channels achieve the highest average views per video?
-- Which channels have the best views to subscriber ratio?
-- Which channels display the strongest subscriber engagement rate?
+|      Number      |                                    Question                                   |
+|:----------------:|:------------------------------------------------------------------------------|
+|         1        | Who are the leading YouTubers by number of subscribers?                       |
+|         2        | Which channels have uploaded the most videos?                                 |
+|         3        | Which channels have the most views?                                           |
+|         4        | Which channels achieve the highest average views per video?                   |
+|         5        | Which channels have the best views to subscriber ratio?                       |
+|         6        | Which channels display the strongest subscriber engagement rate*?             |  
+
+**Subsciber engagement rate - the percentage of viewers who interact with the influencer's content*  
 
 These are some initial questions we aim to answer to reach our goal.
 
@@ -268,7 +272,7 @@ The following data quality checks have been performed to ensure the dataset is a
 
 <img src="assets/images/dax_measures/avg_views_per_video4.png" alt="avg views per video"/>  
 
-5. Engagement Rate (%)  
+5. Engagement Rate  
 
 <img src="assets/images/dax_measures/engagement_rate4.png" alt="engagement rate"/>  
 
@@ -282,7 +286,7 @@ The following data quality checks have been performed to ensure the dataset is a
 - What did we find?  
 For this analysis, we're going to focus on the questions that should provide answers to the marketing client.
 
-These are the main questions we need to address for our marketing client:
+These are the main questions we need to have answered for our marketing client:
 
 - Who are the 10 YouTubers with the biggest subscriber base?
 - Which 10 channels have posted the most content?
