@@ -70,7 +70,7 @@ body {
     pointer-events: none;
   }
   
-  body::after {
+  main::after {
     content: "PREVIEW";
     position: fixed;
     top: 50%; 
@@ -83,7 +83,7 @@ body {
   }
 
   .main-content > *:not(footer) {
-    padding: 30px;
+    padding: 50px;
     margin-bottom: 20px;
   }
   
@@ -102,7 +102,7 @@ body {
      //pointer-events: none;
   //}
   
-  .site-footer-owner {
+  body::after {
     content: "© 2024 Data with MP";
     position: fixed;
     bottom: 0;
