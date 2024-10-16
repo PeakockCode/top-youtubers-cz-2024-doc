@@ -270,7 +270,7 @@ The following data quality checks have been performed to ensure the dataset is a
 
 5. Engagement Rate (%)  
 
-<img src="assets/images/dax_measures/engagement_rate2.png" alt="engagement rate"/>  
+<img src="assets/images/dax_measures/engagement_rate3.png" alt="engagement rate"/>  
 
 6. Views per subscriber  
 
