@@ -338,5 +338,20 @@ These are the main questions we need to have answered for our marketing client:
 | 7    | Štístko a Poupěnka                    |        602.02     |
 | 8    | ViralBrothers SHOW                    |        552.84     |
 | 9    | Blakkwood Records                     |        540.98     |
-| 10   | Radio Free Europe/Radio Liberty       |        535.21     |
+| 10   | Radio Free Europe/Radio Liberty       |        535.21     |  
+
+**4. Which 10 channels get the highest average views per video?**  
+
+| Rank | Channel Name               |  Avg Views Per Video (M) |
+|:---- |:---------------------------|:------------------------:|
+| 1    | ViralBrothers SHOW         |           6.66           |
+| 2    | Mr. Michal                 |           4.56           |
+| 3    | atomic marvel              |           4.19           |
+| 4    | Prague Cello Quartet       |           3.92           |
+| 5    | BESPREDEL                  |           3.81           |
+| 6    | Štístko a Poupěnka         |           3.76           |
+| 7    | Pat a Mat                  |           3.48           |
+| 8    | Silvie Mahdal              |           3.48           |
+| 9    | Slza                       |           3.35           |
+| 10   | Ben Cristovao              |           2.26           |
 
