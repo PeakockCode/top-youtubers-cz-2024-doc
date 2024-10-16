@@ -45,7 +45,7 @@ body {
 @media print {
   @page {
     margin: 20px;
-    padding: 10px;
+    padding: 20px;
   }
   body {
     position: relative;
@@ -102,7 +102,7 @@ body {
      //pointer-events: none;
   //}
   
-  main::after {
+  .site-footer-owner {
     content: "© 2024 Data with MP";
     position: fixed;
     bottom: 0;
