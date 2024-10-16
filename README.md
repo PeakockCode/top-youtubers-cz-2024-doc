@@ -149,11 +149,11 @@ No column should contain null values.
 
 **1. Standardize data**  
 
-<img src="assets/images/sql/cleaning/1.step-standardize_data2.png" alt="1. step of data cleaning" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/cleaning/1.step-standardize_data.png" alt="1. step of data cleaning" style="border: 0.5px solid black;"/>
 
 **2. Create the SQL view**   
 
-<img src="assets/images/sql/cleaning/2.step-create_view2.png" alt="2. step creating view" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/cleaning/2.step-create_view.png" alt="2. step creating view" style="border: 0.5px solid black;"/>
 
 
 #### Data testing
