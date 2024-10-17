@@ -391,16 +391,51 @@ In this analysis, we will primarily prioritize the key metrics essential for ach
 
 These metrics (YouTube channels with the highest number of subscribers, total videos uploaded, and total views) will be used in three simulation scenarios through which we will attempt to find suitable YouTubers. These scenarios will help us evaluate different approaches and campaign costs, allowing us to visualize the varying profitability of individual campaigns.
 
-**1. Scenario - Collaboration with YouTubers with the Most Subscribers**  
+**1. Scenario: Collaboration (based on product placement) with YouTubers (YouTube Channels) with the Most Subscribers**  
 
 The idea of this scenario is to consider the profitability of **product placements** in videos by collaborating with YouTubers who have the highest number of subscribers. We will identify the 3 most suitable YouTubers (YouTube channels).  
 
+*Campaign Variables in 1. Scenario*
+| Item                        | Value                |
+|-----------------------------|----------------------|
+| Product cost                | 200 CZK              |
+| Conversion rate             | 2 %                  |
+| Campaign cost (one-time fee)| 500,000.00 CZK       |  
+
+*3 Most Suitable YouTubers (YouTube channels) in 1. Scenario* 
 | Rank | CHANNEL NAME     | MAIN TOPIC          |
 |------|------------------|---------------------|
 | 1    | Mr. Michal       | Entertainment       |
 | 2    | Silvie Mahdal    | Drawing tutorials   |
 | 3    | Puzzle Guy       | Puzzle content      |  
 
+1. Mr. Michal
+   - Average viws per video = 4.56 million
+   - Product cost = 200 CZK
+   - Potential product sales per video =  4.56 million * 2 % (conversion rate) = 91,200.00 (units)
+   - Potential revenue per video = 91,200.00 (units) * 200 (CZK) = 18,240,000.00 (CZK)
+   - Campaign cost (one-time fee) =  500,000.00 (CZK)
+   - Potential net profit =  17,740,000.00 (CZK)
 
 
-**2. Scenario** 
+
+
+**2. Scenario: Collaboration with YouTubers (YouTube channels) Who Have Uploaded the Most Videos** 
+
+| Rank | CHANNEL NAME           | MAIN TOPIC        |
+|------|------------------------|-------------------|
+| 1    | MenT                   | Gaming content    |
+| 2    | Alexander Zakshevsky   | Music             |
+| 3    | Godzu                  | Gaming content    |  
+
+
+
+**3. Scenario: Collaboration with YouTubers (YouTube Channels) Who Have Uploaded the Most Videos** 
+
+| Rank | CHANNEL NAME              | MAIN TOPIC               |
+|------|---------------------------|--------------------------|
+| 1    | ViralBrothers SHOW        | Entertainment            |
+| 2    | Štístko a Poupěnka        | Children's entertainment |
+| 3    | Puzzle Guy                | Puzzle solving           |  
+
+
