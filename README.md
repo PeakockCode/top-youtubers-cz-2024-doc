@@ -439,7 +439,11 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Campaign cost (one-time fee/period) = 500,000.00 CZK
    - Potential net profit =  7,000,000.00 (CZK) - 500,000.00 (CZK) = 6,500,000.00 CZK  
 
-   Best alternative in this scenario is **Mr. Michal** with **17,740,000.00 CZK** potential net profit.
+   Best alternative in this scenario is **Mr. Michal** with **17,740,000.00 CZK** potential net profit.  
+
+SQL Query with Output for 1st Scenario
+
+<img src="assets/images/sql/analysis/Total_Subscibers_Analysis.png" alt="1. Scenario" style="border: 0.5px solid black;"/>
 
 ##### 2. Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos  
   
@@ -509,6 +513,10 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Potential net profit =  520,000.00 (CZK) - 600,000 (CZK) = -80,000.000 (CZK) **(potential loss)** 
 
    The best and only alternative in this scenario, if we want to achieve a profit, is **MenT** with **600,000.00 CZK** potential net profit.  
+
+SQL Query with output for 2nd Scenario
+
+<img src="assets/images/sql/analysis/Total_Videos_Analysis.png" alt="2. Scenario" style="border: 0.5px solid black;"/>
   
 ##### 3. Scenario: Collaboration with YouTubers (YouTube Channels) Who Have Uploaded the Most Videos  
 
@@ -558,3 +566,7 @@ In this scenario, we aim to analyze YouTubers who have the highest number of upl
    - Potential net profit =  7,000,000.00 (CZK) - 960,000.00 (CZK) = 6,040,000.00 CZK
 
      Best alternative in this scenario is **ViralBrothers SHOW** with **25,680,000.00 CZK** potential net profit.
+
+SQL Query with output for 3rd Scenario
+
+<img src="assets/images/sql/analysis/Total_Views_Analysis.png" alt="3. Scenario" style="border: 0.5px solid black;"/>
