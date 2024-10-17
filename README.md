@@ -397,11 +397,11 @@ The idea of this scenario is to consider the profitability of **product placemen
 
 *Campaign Variables in 1. Scenario*  
 
-| Item                        | Value                |
-|-----------------------------|----------------------|
-| Product cost                | 200 CZK              |
-| Conversion rate             | 2 %                  |
-| Campaign cost (one-time fee)| 500,000.00 CZK       |  
+| Item                               | Value                |
+|------------------------------------|----------------------|
+| Product cost                       | 200 CZK              |
+| Conversion rate                    | 2 %                  |
+| Campaign cost (one-time fee/period)| 500,000.00 CZK       |  
 
 *3 Most Suitable YouTubers (YouTube channels) in 1. Scenario*  
 
@@ -418,7 +418,7 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Product cost = 200 CZK
    - Potential product sales per video =  4.56 million * 2 % (conversion rate) = 91,200.00 (units)
    - Potential revenue per video = 91,200.00 (units) * 200 (CZK) = 18,240,000.00 CZK
-   - Campaign cost (one-time fee) =  500,000.00 CZK
+   - Campaign cost (one-time fee/period) =  500,000.00 CZK
    - Potential net profit =  18,240,000.00 (CZK) - 500,000.00 (CZK) = 17,740,000.00 CZK  
 
 **2. Silvie Mahdal**
@@ -427,7 +427,7 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Product cost = 200 CZK
    - Potential product sales per video = 3.48 million * 2 % (conversion rate) = 69,600.00 (units)
    - Potential revenue per video = 69,600.00 (units) * 200 (CZK) = 13,920,000.00 CZK
-   - Campaign cost (one-time fee) = 500,000.00 CZK
+   - Campaign cost (one-time fee/period) = 500,000.00 CZK
    - Potential net profit =  13,920,000.00 (CZK) - 500,000.00 (CZK) = 13,420,000.00 CZK  
 
 **3. Puzzle guy**
@@ -436,7 +436,7 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Product cost = 200 CZK
    - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)
    - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 CZK
-   - Campaign cost (one-time fee) = 500,000.00 CZK
+   - Campaign cost (one-time fee/period) = 500,000.00 CZK
    - Potential net profit =  7,000,000.00 (CZK) - 500,000.00 (CZK) = 6,500,000.00 CZK  
 
    Best alternative in this scenario is **Mr. Michal** with **17,740,000.00 CZK** potential net profit.
@@ -516,11 +516,11 @@ In this scenario, we aim to analyze YouTubers who have the highest number of upl
 
 *Campaign Variables in 3. Scenario* 
 
-| Item                        | Value                |
-|-----------------------------|----------------------|
-| Product cost                | 200 CZK              |
-| Conversion rate             | 2 %                  |
-| Total campaign cost         | 960,000.00 CZK       |  
+| Item                               | Value                |
+|------------------------------------|----------------------|
+| Product cost                       | 200 CZK              |
+| Conversion rate                    | 2 %                  |
+| Total campaign cost  (2.5-3 months | 960,000.00 CZK       |  
   
 *3 Most Suitable YouTubers (YouTube channels) in 3. Scenario*  
 
@@ -536,7 +536,7 @@ In this scenario, we aim to analyze YouTubers who have the highest number of upl
    - Product cost = 200 CZK
    - Potential product sales per video =  6.66 million * 2 % (conversion rate) = 133,200.00 (units)
    - Potential revenue per video = 133,200.00 (units) * 200 (CZK) = 26,640,000.00 CZK
-   - Campaign cost (contract 2.5 - 3 months) =  960,000.00 CZK
+   - Campaign cost (Contract duration: 2.5 to 3 months) =  960,000.00 CZK
    - Potential net profit =  26,640,000.00 (CZK) - 960,000.00 (CZK) = 25,680,000.00 CZK  
 
 **2. Štístko a Poupěnka**
@@ -545,7 +545,7 @@ In this scenario, we aim to analyze YouTubers who have the highest number of upl
    - Product cost = 200 CZK
    - Potential product sales per video = 3.76 million * 2 % (conversion rate) = 75,200.00 (units)
    - Potential revenue per video = 75,200.00 (units) * 200 (CZK) = 15,040,000.00 CZK
-   - Campaign cost (contract 2.5 - 3 months) = 960,000.00 CZK
+   - Campaign cost (Contract duration: 2.5 to 3 months) = 960,000.00 CZK
    - Potential net profit =  15,040,000.00 (CZK) - 960,000.00 (CZK) = 14,080,000.00 CZK  
 
 **3. Puzzle guy**
@@ -554,7 +554,7 @@ In this scenario, we aim to analyze YouTubers who have the highest number of upl
    - Product cost = 200 CZK
    - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)
    - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 CZK
-   - Campaign cost (contract) = 960,000.00 CZK
+   - Campaign cost (Contract duration: 2.5 to 3 months) = 960,000.00 CZK
    - Potential net profit =  7,000,000.00 (CZK) - 960,000.00 (CZK) = 6,040,000.00 CZK
 
      Best alternative in this scenario is **ViralBrothers SHOW** with **25,680,000.00 CZK** potential net profit.
