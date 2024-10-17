@@ -417,39 +417,99 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Average viws per video = 4.56 million
    - Product cost = 200 CZK
    - Potential product sales per video =  4.56 million * 2 % (conversion rate) = 91,200.00 (units)
-   - Potential revenue per video = 91,200.00 (units) * 200 (CZK) = 18,240,000.00 (CZK)
-   - Campaign cost (one-time fee) =  500,000.00 (CZK)
-   - Potential net profit =  17,740,000.00 (CZK)  
+   - Potential revenue per video = 91,200.00 (units) * 200 (CZK) = 18,240,000.00 CZK
+   - Campaign cost (one-time fee) =  500,000.00 CZK
+   - Potential net profit =  18,240,000.00 (CZK) - 500,000.00 (CZK) = 17,740,000.00 CZK  
 
 2. Silvie Mahdal
    
    - Average viws per video = 3.48 million
    - Product cost = 200 CZK
    - Potential product sales per video = 3.48 million * 2 % (conversion rate) = 69,600.00 (units)
-   - Potential revenue per video = 69,600.00 (units) * 200 (CZK) = 13,920,000.00 (CZK)
-   - Campaign cost (one-time fee) = 500,000.00 (CZK)
-   - Potential net profit = 13,420,000.00 (CZK)  
+   - Potential revenue per video = 69,600.00 (units) * 200 (CZK) = 13,920,000.00 CZK
+   - Campaign cost (one-time fee) = 500,000.00 CZK
+   - Potential net profit =  13,920,000.00 (CZK) - 500,000.00 (CZK) = 13,420,000.00 CZK  
 
 3. Puzzle guy
+   
    - Average viws per video = 1.75 million
    - Product cost = 200 CZK
    - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)
-   - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 (CZK)
-   - Campaign cost (one-time fee) = 500,000.00 (CZK)
-   - Potential net profit = 6,500,000.00 (CZK)
+   - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 CZK
+   - Campaign cost (one-time fee) = 500,000.00 CZK
+   - Potential net profit =  7,000,000.00 (CZK) - 500,000.00 (CZK) = 6,500,000.00 CZK  
 
    Best alternative in this scenario is **Mr. Michal** with 17,740,000.00 CZK potential net profit.
 
-**2. Scenario: Collaboration with YouTubers (YouTube channels) Who Have Uploaded the Most Videos** 
+**2. Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos**  
+  
+The goal of this scenario is to evaluate the profitability of video series through sponsorships with YouTubers who have the highest number of uploaded videos. We will identify the 3 most suitable YouTubers (YouTube channels).  
 
-| Rank | CHANNEL NAME           | MAIN TOPIC        |
-|------|------------------------|-------------------|
-| 1    | MenT                   | Gaming content    |
-| 2    | Alexander Zakshevsky   | Music             |
-| 3    | Godzu                  | Gaming content    |  
+*Campaign Variables in 2. Scenario* 
 
+| Item                        | Value                |
+|-----------------------------|----------------------|
+| Product cost                | 200 CZK              |
+| Conversion rate             | 2 %                  |
+| Campaign cost per video     | 50,000.00 CZK        |  
+| Number of videos            | 10                   |
+| Total campaign cost         | 500,000.00 CZK       |  
+  
+*3 Most Suitable YouTubers (YouTube channels) in 2. Scenario*  
 
+| Rank    | CHANNEL NAME           | MAIN TOPIC           |
+|---------|------------------------|----------------------|
+| **1**   | **MenT**               | **Gaming content**   |
+| 2       | Alexander Zakshevsky   | Music                |
+| 3       | Godzu                  | Gaming content       |
+| 3       | PedrosGame             | Gaming content       |  
+  
+1. MenT
+   
+   - Average viws per video = 300,000
+   - Product cost = 200 CZK
+   - Potential product sales per video =  300,000 * 2 % (conversion rate) = 6,000.00 (units)  
+   - Potential revenue per video = 6,000.00 (units) * 200 (CZK) = 1,200,000.00 CZK  
+   - Campaign cost per video = 50,000.00 CZK
+   - Number of videos = 10
+   - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
+   - Potential net profit = 1,200,000.00 (CZK) - 500,000 (CZK) = 700,000.00 CZK  
 
+2. Alexander Zakshevsky
+   
+   - Average viws per video = 140,000
+   - Product cost = 200 CZK
+   - Potential product sales per video = 140,000 * 2 % (conversion rate) = 2,800.00 (units)
+   - Potential revenue per video = 2,800.00 (units) * 200 (CZK) = 560,000.00 CZK
+   - Campaign cost per video = 50,000.00 CZK
+   - Number of videos = 10
+   - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
+   - Potential net profit = 560,000.00 (CZK) - 500,000 (CZK) = 60,000.00 CZK  
+
+3. Godzu
+   
+   - Average viws per video = 130,000
+   - Product cost = 200 CZK
+   - Potential product sales per video = 130,000 * 2 % (conversion rate) = 2,600.00 (units)
+   - Potential revenue per video = 2,600.00 (units) * 200 (CZK) = 520,000.00 CZK
+   - Campaign cost per video = 50,000.00 CZK
+   - Number of videos = 10
+   - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
+   - Potential net profit =  520,000.00 (CZK) - 500,000 (CZK) = 20,000.000 (CZK)
+
+3. PedrosGame
+   
+   - Average viws per video = 130,000
+   - Product cost = 200 CZK
+   - Potential product sales per video = 130,000 * 2 % (conversion rate) = 2,600.00 (units)
+   - Potential revenue per video = 2,600.00 (units) * 200 (CZK) = 520,000.00 CZK
+   - Campaign cost per video = 50,000.00 CZK
+   - Number of videos = 10
+   - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
+   - Potential net profit =  520,000.00 (CZK) - 500,000 (CZK) = 20,000.000 (CZK)
+
+   Best alternative in this scenario is **MenT** with 700,000.00 CZK potential net profit.  
+  
 **3. Scenario: Collaboration with YouTubers (YouTube Channels) Who Have Uploaded the Most Videos** 
 
 | Rank | CHANNEL NAME              | MAIN TOPIC               |
