@@ -283,7 +283,7 @@ The following data quality checks have been performed to ensure the dataset is a
 ### Analysis
 
 #### Results overview
-- What did we find?  
+
 For this analysis, we're going to focus on the questions that should provide answers to the marketing department.
 
 Here are the main topics we need to answer:
