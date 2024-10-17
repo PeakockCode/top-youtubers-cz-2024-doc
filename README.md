@@ -405,13 +405,15 @@ The idea of this scenario is to consider the profitability of **product placemen
 
 *3 Most Suitable YouTubers (YouTube channels) in 1. Scenario*  
 
-| Rank | CHANNEL NAME       | MAIN TOPIC          |
-|------|--------------------|---------------------|
-| 1    | **Mr. Michal**     | Entertainment       |
-| 2    | Silvie Mahdal      | Drawing tutorials   |
-| 3    | Puzzle Guy         | Puzzle content      |  
+| Rank    | CHANNEL NAME       | MAIN TOPIC              |
+|---------|--------------------|-------------------------|
+| **1**   | **Mr. Michal**     | **Entertainment**       |
+| 2       | Silvie Mahdal      | Drawing tutorials       |
+| 3       | Puzzle Guy         | Puzzle content          |  
 
+  
 1. Mr. Michal
+   
    - Average viws per video = 4.56 million
    - Product cost = 200 CZK
    - Potential product sales per video =  4.56 million * 2 % (conversion rate) = 91,200.00 (units)
@@ -420,20 +422,23 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Potential net profit =  17,740,000.00 (CZK)  
 
 2. Silvie Mahdal
-  - Average viws per video = 3.48 million
-  - Product cost = 200 CZK
-  - Potential product sales per video = 3.48 million * 2 % (conversion rate) = 69,600.00 (units)
-  - Potential revenue per video = 69,600.00 (units) * 200 (CZK) = 13,920,000.00 (CZK) 
-  - Campaign cost (one-time fee) = 500,000.00 (CZK)
-  - Potential net profit = 13,420,000.00 (CZK)  
+   
+   - Average viws per video = 3.48 million
+   - Product cost = 200 CZK
+   - Potential product sales per video = 3.48 million * 2 % (conversion rate) = 69,600.00 (units)
+   - Potential revenue per video = 69,600.00 (units) * 200 (CZK) = 13,920,000.00 (CZK)
+   - Campaign cost (one-time fee) = 500,000.00 (CZK)
+   - Potential net profit = 13,420,000.00 (CZK)  
 
-2. Puzzle guy
-  - Average viws per video = 1.75 million
-  - Product cost = 200 CZK
-  - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)   
-  - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 (CZK)
-  - Campaign cost (one-time fee) = 500,000.00 (CZK)
-  - Potential net profit = 6,500,000.00 (CZK)  
+3. Puzzle guy
+   - Average viws per video = 1.75 million
+   - Product cost = 200 CZK
+   - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)
+   - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 (CZK)
+   - Campaign cost (one-time fee) = 500,000.00 (CZK)
+   - Potential net profit = 6,500,000.00 (CZK)
+
+   Best option: Mr. Michal
 
 **2. Scenario: Collaboration with YouTubers (YouTube channels) Who Have Uploaded the Most Videos** 
 
