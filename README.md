@@ -410,7 +410,7 @@ The idea of this scenario is to consider the profitability of **product placemen
 | **1**   | **Mr. Michal**     | **Entertainment**       |
 | 2       | Silvie Mahdal      | Drawing tutorials       |
 | 3       | Puzzle Guy         | Puzzle content          |  
-
+  
   
 1. Mr. Michal
    
@@ -438,7 +438,7 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Campaign cost (one-time fee) = 500,000.00 (CZK)
    - Potential net profit = 6,500,000.00 (CZK)
 
-   Best option: Mr. Michal
+   Best alternative in this scenario is **Mr. Michal** with 17,740,000.00 CZK potential net profit.
 
 **2. Scenario: Collaboration with YouTubers (YouTube channels) Who Have Uploaded the Most Videos** 
 
