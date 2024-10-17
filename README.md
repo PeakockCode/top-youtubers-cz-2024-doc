@@ -414,7 +414,7 @@ The idea of this scenario is to consider the profitability of **product placemen
   
 1. Mr. Michal
    
-   - Average viws per video = 4.56 million
+   - Average views per video = 4.56 million
    - Product cost = 200 CZK
    - Potential product sales per video =  4.56 million * 2 % (conversion rate) = 91,200.00 (units)
    - Potential revenue per video = 91,200.00 (units) * 200 (CZK) = 18,240,000.00 CZK
@@ -423,7 +423,7 @@ The idea of this scenario is to consider the profitability of **product placemen
 
 2. Silvie Mahdal
    
-   - Average viws per video = 3.48 million
+   - Average views per video = 3.48 million
    - Product cost = 200 CZK
    - Potential product sales per video = 3.48 million * 2 % (conversion rate) = 69,600.00 (units)
    - Potential revenue per video = 69,600.00 (units) * 200 (CZK) = 13,920,000.00 CZK
@@ -432,7 +432,7 @@ The idea of this scenario is to consider the profitability of **product placemen
 
 3. Puzzle guy
    
-   - Average viws per video = 1.75 million
+   - Average views per video = 1.75 million
    - Product cost = 200 CZK
    - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)
    - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 CZK
@@ -466,7 +466,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
   
 1. MenT
    
-   - Average viws per video = 300,000
+   - Average views per video = 300,000
    - Product cost = 200 CZK
    - Potential product sales per video =  300,000 * 2 % (conversion rate) = 6,000.00 (units)  
    - Potential revenue per video = 6,000.00 (units) * 200 (CZK) = 1,200,000.00 CZK  
@@ -477,7 +477,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
 
 2. Alexander Zakshevsky
    
-   - Average viws per video = 140,000
+   - Average views per video = 140,000
    - Product cost = 200 CZK
    - Potential product sales per video = 140,000 * 2 % (conversion rate) = 2,800.00 (units)
    - Potential revenue per video = 2,800.00 (units) * 200 (CZK) = 560,000.00 CZK
@@ -488,7 +488,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
 
 3. Godzu
    
-   - Average viws per video = 130,000
+   - Average views per video = 130,000
    - Product cost = 200 CZK
    - Potential product sales per video = 130,000 * 2 % (conversion rate) = 2,600.00 (units)
    - Potential revenue per video = 2,600.00 (units) * 200 (CZK) = 520,000.00 CZK
@@ -499,7 +499,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
 
 3. PedrosGame
    
-   - Average viws per video = 130,000
+   - Average views per video = 130,000
    - Product cost = 200 CZK
    - Potential product sales per video = 130,000 * 2 % (conversion rate) = 2,600.00 (units)
    - Potential revenue per video = 2,600.00 (units) * 200 (CZK) = 520,000.00 CZK
