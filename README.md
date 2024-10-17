@@ -286,16 +286,16 @@ The following data quality checks have been performed to ensure the dataset is a
 - What did we find?  
 For this analysis, we're going to focus on the questions that should provide answers to the marketing department.
 
-These are the main questions we need to have answered for our marketing client:
+Here are the main topics we need to answer:
 
-- Who are the 10 YouTubers with the biggest subscriber base?
-- Which 10 channels have posted the most content?
-- Which 10 channels have the highest total view count?
-- Which 10 channels get the highest average views per video?
-- Which 10 channels have the best views-to-subscriber ratio?
-- Which 10 channels show the highest subscriber engagement rate per video?
+- What are the 10 YouTubers (YouTube channels) with the largest subscriber base?
+- Which 10 YouTubers (YouTube channels) have posted the most content?
+- Who are the 10 YouTubers (YouTube channels) with the highest total view count?
+- What are the 10 YouTubers (YouTube channels) that get the highest average views per video?
+- Which 10 YouTubers (YouTube channels) have the best views-to-subscriber ratio?
+- Who are the 10 YouTubers (YouTube channels) with the highest subscriber engagement rate per video?
 
-**1. Who are the top 10 YouTubers with the most subscribers?**  
+**1. What are the 10 YouTubers (YouTube channels) with the largest subscriber base?**  
 
 | Rank | Channel Name                  | Subscribers (M) |
 |------|-------------------------------|-----------------|
@@ -310,7 +310,7 @@ These are the main questions we need to have answered for our marketing client:
 | 9    | FIZIstyle                     |       1.16      |
 | 10   | Mr. Michal                    |       1.12      |  
 
-**2. Which 10 channels have posted the most content?** 
+**2. Which 10 YouTubers (YouTube channels) have posted the most content?** 
 
 | Rank | Channel Name                      | Total Videos |
 |------|-----------------------------------|:------------:|
@@ -325,7 +325,7 @@ These are the main questions we need to have answered for our marketing client:
 | 9    | PedrosGame                        |     2,827    |
 | 10   | Alexander Zakshevsky              |     2,780    |  
 
-**3. Which 10 channels have the highest total view count?**  
+**3. Who are the 10 YouTubers (YouTube channels) with the highest total view count?**  
 
 | Rank | Channel Name                          |  Total Videos (M) |
 |:---- |:--------------------------------------|:-----------------:|
@@ -340,7 +340,7 @@ These are the main questions we need to have answered for our marketing client:
 | 9    | Blakkwood Records                     |        540.98     |
 | 10   | Radio Free Europe/Radio Liberty       |        535.21     |  
 
-**4. Which 10 channels get the highest average views per video?**  
+**4. What are the 10 YouTubers (YouTube channels) that get the highest average views per video?**  
 
 | Rank | Channel Name               |  Avg Views Per Video (M) |
 |:---- |:---------------------------|:------------------------:|
@@ -355,7 +355,7 @@ These are the main questions we need to have answered for our marketing client:
 | 9    | Slza                       |           3.35           |
 | 10   | Ben Cristovao              |           2.26           |  
 
-**5. Which 10 channels have the best views-to-subscriber ratio?**
+**5. Which 10 YouTubers (YouTube channels) have the best views-to-subscriber ratio?**
 
 | Rank | Channel Name               | Views Per Subscriber |
 |:---- |:---------------------------|:--------------------:|
@@ -370,7 +370,7 @@ These are the main questions we need to have answered for our marketing client:
 | 9    | TOP veci do 2 minut        |         734          |
 | 10   | Alkanhraje                 |         729          |  
 
-**6. Which 10 channels show the highest subscriber engagement rate per video?**
+**6. Who are the 10 YouTubers (YouTube channels) with the highest subscriber engagement rate per video?**
 
 | Rank | Channel Name             |  Engagement Rate  |
 |:---- |:-------------------------|:-----------------:|
@@ -393,7 +393,14 @@ These metrics (YouTube channels with the highest number of subscribers, total vi
 
 **1. Scenario - Collaboration with YouTubers with the Most Subscribers**  
 
-The idea of this scenario is to consider the profitability of product placements in videos by collaborating with YouTubers who have the highest number of subscribers.
+The idea of this scenario is to consider the profitability of **product placements** in videos by collaborating with YouTubers who have the highest number of subscribers. We will identify the 3 most suitable YouTubers (YouTube channels).  
+
+| Rank | CHANNEL NAME     | MAIN TOPIC          |
+|------|------------------|---------------------|
+| 1    | Mr. Michal       | Entertainment       |
+| 2    | Silvie Mahdal    | Drawing tutorials   |
+| 3    | Puzzle Guy       | Puzzle content      |  
+
 
 
 **2. Scenario** 
