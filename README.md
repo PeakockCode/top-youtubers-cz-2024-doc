@@ -583,4 +583,12 @@ In this scenario, we aim to analyze YouTubers who have the highest number of upl
 
 <img src="assets/images/sql/analysis/total_views_analysis.png" alt="3. Scenario - output" style="border: 0.5px solid black;"/>  
 
+### Conclusion
+
+In this section, we will summarize the main information from our analysis and, based on these insights, provide recommendations for the marketing department.
+
+#### Fingings
+
+
+#### Recommendations
 
