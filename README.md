@@ -395,14 +395,16 @@ These metrics (YouTube channels with the highest number of subscribers, total vi
 
 The idea of this scenario is to consider the profitability of **product placements** in videos by collaborating with YouTubers who have the highest number of subscribers. We will identify the 3 most suitable YouTubers (YouTube channels).  
 
-*Campaign Variables in 1. Scenario*
+*Campaign Variables in 1. Scenario*  
+
 | Item                        | Value                |
 |-----------------------------|----------------------|
 | Product cost                | 200 CZK              |
 | Conversion rate             | 2 %                  |
 | Campaign cost (one-time fee)| 500,000.00 CZK       |  
 
-*3 Most Suitable YouTubers (YouTube channels) in 1. Scenario* 
+*3 Most Suitable YouTubers (YouTube channels) in 1. Scenario*  
+
 | Rank | CHANNEL NAME     | MAIN TOPIC          |
 |------|------------------|---------------------|
 | 1    | Mr. Michal       | Entertainment       |
