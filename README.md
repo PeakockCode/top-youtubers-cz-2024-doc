@@ -516,11 +516,11 @@ In this scenario, we aim to analyze YouTubers who have the highest number of upl
 
 *Campaign Variables in 3. Scenario* 
 
-| Item                               | Value                |
-|------------------------------------|----------------------|
-| Product cost                       | 200 CZK              |
-| Conversion rate                    | 2 %                  |
-| Total campaign cost  (2.5-3 months | 960,000.00 CZK       |  
+| Item                                | Value                 |
+|-------------------------------------|-----------------------|
+| Product cost                        | 200 CZK               |
+| Conversion rate                     | 2 %                   |
+| Total campaign cost  (2.5-3 months) | 960,000.00 CZK        |  
   
 *3 Most Suitable YouTubers (YouTube channels) in 3. Scenario*  
 
