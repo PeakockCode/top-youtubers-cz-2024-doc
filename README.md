@@ -452,8 +452,8 @@ The goal of this scenario is to evaluate the profitability of video series throu
 | Product cost                | 200 CZK              |
 | Conversion rate             | 2 %                  |
 | Campaign cost per video     | 50,000.00 CZK        |  
-| Number of videos            | 10                   |
-| Total campaign cost         | 500,000.00 CZK       |  
+| Number of videos            | 12                   |
+| Total campaign cost         | 600,000.00 CZK       |  
   
 *3 Most Suitable YouTubers (YouTube channels) in 2. Scenario*  
 
@@ -471,9 +471,9 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Potential product sales per video =  300,000 * 2 % (conversion rate) = 6,000.00 (units)  
    - Potential revenue per video = 6,000.00 (units) * 200 (CZK) = 1,200,000.00 CZK  
    - Campaign cost per video = 50,000.00 CZK
-   - Number of videos = 10
-   - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
-   - Potential net profit = 1,200,000.00 (CZK) - 500,000 (CZK) = 700,000.00 CZK  
+   - Number of videos = 12
+   - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
+   - Potential net profit = 1,200,000.00 (CZK) - 600,000 (CZK) = 600,000.00 CZK  
 
 **2. Alexander Zakshevsky**
    
@@ -482,9 +482,9 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Potential product sales per video = 140,000 * 2 % (conversion rate) = 2,800.00 (units)
    - Potential revenue per video = 2,800.00 (units) * 200 (CZK) = 560,000.00 CZK
    - Campaign cost per video = 50,000.00 CZK
-   - Number of videos = 10
-   - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
-   - Potential net profit = 560,000.00 (CZK) - 500,000 (CZK) = 60,000.00 CZK  
+   - Number of videos = 12
+   - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
+   - Potential net profit = 560,000.00 (CZK) - 600,000 (CZK) = -40,000.00 CZK **(potential loss)** 
 
 **3. Godzu**
    
@@ -493,9 +493,9 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Potential product sales per video = 130,000 * 2 % (conversion rate) = 2,600.00 (units)
    - Potential revenue per video = 2,600.00 (units) * 200 (CZK) = 520,000.00 CZK
    - Campaign cost per video = 50,000.00 CZK
-   - Number of videos = 10
-   - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
-   - Potential net profit =  520,000.00 (CZK) - 500,000 (CZK) = 20,000.000 (CZK)
+   - Number of videos = 12
+   - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
+   - Potential net profit =  520,000.00 (CZK) - 600,000 (CZK) = -80,000.000 (CZK) **(potential loss)** 
 
 **3. PedrosGame**
    
@@ -504,11 +504,11 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Potential product sales per video = 130,000 * 2 % (conversion rate) = 2,600.00 (units)
    - Potential revenue per video = 2,600.00 (units) * 200 (CZK) = 520,000.00 CZK
    - Campaign cost per video = 50,000.00 CZK
-   - Number of videos = 10
-   - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
-   - Potential net profit =  520,000.00 (CZK) - 500,000 (CZK) = 20,000.000 (CZK)
+   - Number of videos = 12
+   - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
+   - Potential net profit =  520,000.00 (CZK) - 600,000 (CZK) = -80,000.000 (CZK) **(potential loss)** 
 
-   Best alternative in this scenario is **MenT** with **700,000.00 CZK** potential net profit.  
+   The best and only alternative in this scenario, if we want to achieve a profit, is **MenT** with **600,000.00 CZK** potential net profit.  
   
 ##### 3. Scenario: Collaboration with YouTubers (YouTube Channels) Who Have Uploaded the Most Videos  
 
@@ -532,21 +532,21 @@ In this scenario, we aim to analyze YouTubers who have the highest number of upl
 
 **1. ViralBrothers SHOW**
    
-   - Average views per video = 4.56 million
+   - Average views per video = 6.66 million
    - Product cost = 200 CZK
-   - Potential product sales per video =  4.56 million * 2 % (conversion rate) = 91,200.00 (units)
-   - Potential revenue per video = 91,200.00 (units) * 200 (CZK) = 18,240,000.00 CZK
-   - Campaign cost (contract ) =  800,000.00 CZK
-   - Potential net profit =  18,240,000.00 (CZK) - 500,000.00 (CZK) = 17,740,000.00 CZK  
+   - Potential product sales per video =  6.66 million * 2 % (conversion rate) = 133,200.00 (units)
+   - Potential revenue per video = 133,200.00 (units) * 200 (CZK) = 26,640,000.00 CZK
+   - Campaign cost (contract 2.5 - 3 months) =  960,000.00 CZK
+   - Potential net profit =  26,640,000.00 (CZK) - 960,000.00 (CZK) = 25,680,000.00 CZK  
 
 **2. Štístko a Poupěnka**
    
-   - Average views per video = 3.48 million
+   - Average views per video = 3.76 million
    - Product cost = 200 CZK
-   - Potential product sales per video = 3.48 million * 2 % (conversion rate) = 69,600.00 (units)
-   - Potential revenue per video = 69,600.00 (units) * 200 (CZK) = 13,920,000.00 CZK
-   - Campaign cost (contract) = 500,000.00 CZK
-   - Potential net profit =  13,920,000.00 (CZK) - 500,000.00 (CZK) = 13,420,000.00 CZK  
+   - Potential product sales per video = 3.76 million * 2 % (conversion rate) = 75,200.00 (units)
+   - Potential revenue per video = 75,200.00 (units) * 200 (CZK) = 15,040,000.00 CZK
+   - Campaign cost (contract 2.5 - 3 months) = 960,000.00 CZK
+   - Potential net profit =  15,040,000.00 (CZK) - 960,000.00 (CZK) = 14,080,000.00 CZK  
 
 **3. Puzzle guy**
    
@@ -554,5 +554,7 @@ In this scenario, we aim to analyze YouTubers who have the highest number of upl
    - Product cost = 200 CZK
    - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)
    - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 CZK
-   - Campaign cost (contract) = 500,000.00 CZK
-   - Potential net profit =  7,000,000.00 (CZK) - 500,000.00 (CZK) = 6,500,000.00 CZK  
+   - Campaign cost (contract) = 960,000.00 CZK
+   - Potential net profit =  7,000,000.00 (CZK) - 960,000.00 (CZK) = 6,040,000.00 CZK
+
+     Best alternative in this scenario is **ViralBrothers SHOW** with **25,680,000.00 CZK** potential net profit.
