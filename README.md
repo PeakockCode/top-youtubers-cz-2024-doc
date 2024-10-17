@@ -385,7 +385,7 @@ Here are the main topics we need to answer:
 | 9    | NejFake                  |        8.37%      |
 | 10   | Stay12                   |        8.33%      |  
 
-In this analysis, we will primarily prioritize the key metrics essential for achieving the expected Return on Investment (ROI) for our marketing client, specifically focusing on YouTube channels with the highest number of subscribers, total videos uploaded, and total views. By analyzing these metrics, we aim to identify the right YouTubers to optimize our marketing department's efforts on the platform.  
+In this analysis, we will primarily prioritize the key metrics essential for achieving the expected Return on Investment (ROI) for our marketing department, specifically focusing on YouTube channels with the highest number of subscribers, total videos uploaded, and total view count. By analyzing these metrics, we aim to identify the most suitable YouTubers to optimize our marketing department efforts on the platform.  
 
 #### Validation - Scenarios  
 
@@ -603,8 +603,11 @@ In this section, we will summarize the main information from our analysis and, b
   - This Scenario appears to be less productive and much riskier compared to the others.
 
 3) By concentrating on the YouTubers (YouTube channels) with the most views, we discovered:
+   
+  - Puzzle Guy is the YouTuber with the highest total view count. With over 1.6 billion views, he is by far the leader in       this category. The second, MenT, has 697 million fewer views, with a total of only 910 million. The remaining YouTubers     (YouTube channels) have between 535 million and 777 million views.
+  - In the 3rd scenario (Collaboration with YouTubers with the most views based on contract), the most suitable YouTuber is     ViralBrothers SHOW, with a potential net profit of over 25.6 million CZK, followed by Štístko a Poupěnka with a             potential net profit of over 14 million CZK, and Puzzle Guy with a potential net profit of over 6 million CZK (this         YouTuber also succeeded in the 1st scenario).
 
-
+Across all categories, YouTubers (YouTube channels) focusing on entertainment, gaming content, or music, tend to dominate, likely due to their consistent posting on the platform.
 
 #### Recommendations
 
