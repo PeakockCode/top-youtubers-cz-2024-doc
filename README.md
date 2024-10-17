@@ -327,7 +327,7 @@ Here are the main topics we need to answer:
 
 **3. Who are the 10 YouTubers (YouTube channels) with the highest total view count?**  
 
-| Rank | Channel Name                          |  Total Videos (M) |
+| Rank | Channel Name                          |  Total Views(M) |
 |:---- |:--------------------------------------|:-----------------:|
 | 1    | Puzzle guy                            |      1,607.53     |
 | 2    | MenT                                  |        910.00     |
@@ -443,7 +443,7 @@ The idea of this scenario is to consider the profitability of **product placemen
 
 ##### 2. Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos  
   
-The goal of this scenario is to evaluate the profitability of video series through sponsorships with YouTubers who have the highest number of uploaded videos. We will identify the 3 most suitable YouTubers (YouTube channels).  
+The goal of this scenario is to evaluate the profitability of video series through sponsorships with YouTubers who have the highest number of uploaded videos. We will select the three most suitable YouTubers (YouTube channels).
 
 *Campaign Variables in 2. Scenario* 
 
@@ -510,7 +510,19 @@ The goal of this scenario is to evaluate the profitability of video series throu
 
    Best alternative in this scenario is **MenT** with **700,000.00 CZK** potential net profit.  
   
-##### 3. Scenario: Collaboration with YouTubers (YouTube Channels) Who Have Uploaded the Most Videos
+##### 3. Scenario: Collaboration with YouTubers (YouTube Channels) Who Have Uploaded the Most Videos  
+
+In this scenario, we aim to analyze YouTubers who have the highest number of uploaded videos. Our focus will be on evaluating the profitability of influencer marketing through collaborations with these YouTubers. To achieve this, we will identify the three most suitable YouTubers (YouTube channels) for our campaign.
+
+*Campaign Variables in 3. Scenario* 
+
+| Item                        | Value                |
+|-----------------------------|----------------------|
+| Product cost                | 200 CZK              |
+| Conversion rate             | 2 %                  |
+| Total campaign cost         | 960,000.00 CZK       |  
+  
+*3 Most Suitable YouTubers (YouTube channels) in 3. Scenario*  
 
 | Rank | CHANNEL NAME              | MAIN TOPIC               |
 |------|---------------------------|--------------------------|
@@ -518,4 +530,29 @@ The goal of this scenario is to evaluate the profitability of video series throu
 | 2    | Štístko a Poupěnka        | Children's entertainment |
 | 3    | Puzzle Guy                | Puzzle solving           |  
 
+**1. ViralBrothers SHOW**
+   
+   - Average views per video = 4.56 million
+   - Product cost = 200 CZK
+   - Potential product sales per video =  4.56 million * 2 % (conversion rate) = 91,200.00 (units)
+   - Potential revenue per video = 91,200.00 (units) * 200 (CZK) = 18,240,000.00 CZK
+   - Campaign cost (contract ) =  800,000.00 CZK
+   - Potential net profit =  18,240,000.00 (CZK) - 500,000.00 (CZK) = 17,740,000.00 CZK  
 
+**2. Štístko a Poupěnka**
+   
+   - Average views per video = 3.48 million
+   - Product cost = 200 CZK
+   - Potential product sales per video = 3.48 million * 2 % (conversion rate) = 69,600.00 (units)
+   - Potential revenue per video = 69,600.00 (units) * 200 (CZK) = 13,920,000.00 CZK
+   - Campaign cost (contract) = 500,000.00 CZK
+   - Potential net profit =  13,920,000.00 (CZK) - 500,000.00 (CZK) = 13,420,000.00 CZK  
+
+**3. Puzzle guy**
+   
+   - Average views per video = 1.75 million
+   - Product cost = 200 CZK
+   - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)
+   - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 CZK
+   - Campaign cost (contract) = 500,000.00 CZK
+   - Potential net profit =  7,000,000.00 (CZK) - 500,000.00 (CZK) = 6,500,000.00 CZK  
