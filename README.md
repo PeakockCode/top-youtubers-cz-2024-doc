@@ -391,7 +391,7 @@ In this analysis, we will primarily prioritize the key metrics essential for ach
 
 These metrics (YouTube channels with the highest number of subscribers, total videos uploaded, and total views) will be used in three simulation scenarios through which we will attempt to find suitable YouTubers. These scenarios will help us evaluate different approaches and campaign costs, allowing us to visualize the varying profitability of individual campaigns.
 
-**1. Scenario: Collaboration (based on product placement) with YouTubers (YouTube Channels) with the Most Subscribers**  
+##### 1. Scenario: Collaboration (based on product placement) with YouTubers (YouTube Channels) with the Most Subscribers 
 
 The idea of this scenario is to consider the profitability of **product placements** in videos by collaborating with YouTubers who have the highest number of subscribers. We will identify the 3 most suitable YouTubers (YouTube channels).  
 
@@ -412,7 +412,7 @@ The idea of this scenario is to consider the profitability of **product placemen
 | 3       | Puzzle Guy         | Puzzle content          |  
   
   
-1. Mr. Michal
+**1. Mr. Michal**
    
    - Average views per video = 4.56 million
    - Product cost = 200 CZK
@@ -421,7 +421,7 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Campaign cost (one-time fee) =  500,000.00 CZK
    - Potential net profit =  18,240,000.00 (CZK) - 500,000.00 (CZK) = 17,740,000.00 CZK  
 
-2. Silvie Mahdal
+**2. Silvie Mahdal**
    
    - Average views per video = 3.48 million
    - Product cost = 200 CZK
@@ -430,7 +430,7 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Campaign cost (one-time fee) = 500,000.00 CZK
    - Potential net profit =  13,920,000.00 (CZK) - 500,000.00 (CZK) = 13,420,000.00 CZK  
 
-3. Puzzle guy
+**3. Puzzle guy**
    
    - Average views per video = 1.75 million
    - Product cost = 200 CZK
@@ -439,9 +439,9 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Campaign cost (one-time fee) = 500,000.00 CZK
    - Potential net profit =  7,000,000.00 (CZK) - 500,000.00 (CZK) = 6,500,000.00 CZK  
 
-   Best alternative in this scenario is **Mr. Michal** with 17,740,000.00 CZK potential net profit.
+   Best alternative in this scenario is **Mr. Michal** with **17,740,000.00 CZK** potential net profit.
 
-**2. Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos**  
+##### 2. Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos  
   
 The goal of this scenario is to evaluate the profitability of video series through sponsorships with YouTubers who have the highest number of uploaded videos. We will identify the 3 most suitable YouTubers (YouTube channels).  
 
@@ -464,7 +464,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
 | 3       | Godzu                  | Gaming content       |
 | 3       | PedrosGame             | Gaming content       |  
   
-1. MenT
+**1. MenT**
    
    - Average views per video = 300,000
    - Product cost = 200 CZK
@@ -475,7 +475,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
    - Potential net profit = 1,200,000.00 (CZK) - 500,000 (CZK) = 700,000.00 CZK  
 
-2. Alexander Zakshevsky
+**2. Alexander Zakshevsky**
    
    - Average views per video = 140,000
    - Product cost = 200 CZK
@@ -486,7 +486,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
    - Potential net profit = 560,000.00 (CZK) - 500,000 (CZK) = 60,000.00 CZK  
 
-3. Godzu
+**3. Godzu**
    
    - Average views per video = 130,000
    - Product cost = 200 CZK
@@ -497,7 +497,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
    - Potential net profit =  520,000.00 (CZK) - 500,000 (CZK) = 20,000.000 (CZK)
 
-3. PedrosGame
+**3. PedrosGame**
    
    - Average views per video = 130,000
    - Product cost = 200 CZK
@@ -508,9 +508,9 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Total campaign cost = 50,000.00 (CZK) * 10 (videos) = 500,000 CZK
    - Potential net profit =  520,000.00 (CZK) - 500,000 (CZK) = 20,000.000 (CZK)
 
-   Best alternative in this scenario is **MenT** with 700,000.00 CZK potential net profit.  
+   Best alternative in this scenario is **MenT** with **700,000.00 CZK** potential net profit.  
   
-**3. Scenario: Collaboration with YouTubers (YouTube Channels) Who Have Uploaded the Most Videos** 
+##### 3. Scenario: Collaboration with YouTubers (YouTube Channels) Who Have Uploaded the Most Videos
 
 | Rank | CHANNEL NAME              | MAIN TOPIC               |
 |------|---------------------------|--------------------------|
