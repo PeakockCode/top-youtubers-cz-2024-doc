@@ -613,10 +613,14 @@ Across all categories, YouTubers (YouTube channels) focusing on entertainment, g
 
 ##### Resume
 
-1. **The best YouTuber (YouTube channel) we recommend collaborating with in the first scenario is Mr. Michal**, as he is the optimal choice for enhancing visibility on YouTube and achieving the highest net profit (over 17.7 million CZK). While  he may not have the largest subscriber base, his high views per video make him a valuable partner for our marketing         objectives.
+1. **The best YouTuber (YouTube channel) we recommend collaborating with in the first scenario is Mr. Michal**, as he is the optimal choice for enhancing visibility on YouTube and achieving the highest net profit (over 17.7 million CZK). While he may not have the largest subscriber base, his high views per video make him a valuable partner for our marketing objectives.  
 
 2. As mentioned in the Findings section, the second scenario appears to be dramatically less productive, resulting in a     significantly lower return on investment. There is only one YouTuber worth considering in this case: **MenT (gaming         content)**, who can generate a net profit, unlike other YouTubers in this category who are regular publishers.
 If our company were to focus on gaming content, **there are likely better alternatives, such as SirYakari** (even he was not part of this scenario, but in the third scenario, he performed significantly better than MenT ). Despite posting less frequently, SirYakari averages 1 million views per video and generates over 3.1 million CZK in net profit, positioning him  as a leader among YouTubers in the gaming content genre. In the case of focusing specifically on gaming content, it is      worth mentioning the need for a deeper analysis, which would consider factors such as engagement rate, the specific         content of gaming videos, and the overall activity of YouTubers in the past year.
-**Given all the factors mentioned, we do not recommend anyone in this scenario.**
+**Given all the factors mentioned, we do not recommend anyone in this scenario.**  
 
-3. 
+3. **ViralBrothers SHOW is the best YouTuber (YouTube channel) to collaborate with if we are interested in maximizing our reach, as it offers significantly higher average views per video, leading to the highest potential net profit (25,680,000.00 CZK).** However, if we focus on children's products, it would be worth considering the channel Štístko a Poupěnka.
+
+4. 
+
+   
