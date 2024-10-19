@@ -238,7 +238,7 @@ The following data quality checks have been performed to ensure the dataset is a
 **Duplicate count check**  
 - SQL Query with output:
 
-<img src="assets/images/sql/data_check/duplicates_check2.png" alt="duplicates" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/duplicates_check3.png" alt="duplicates" style="border: 0.5px solid black;"/>
   
 ## Visualization, Analysis and Conclusion
 
