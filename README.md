@@ -619,7 +619,7 @@ Across all categories, YouTubers (YouTube channels) focusing on entertainment, g
 If our company were to focus on gaming content, **there are likely better alternatives, such as SirYakari** (even he was not part of this scenario, but in the third scenario, he performed significantly better than MenT ). Despite posting less frequently, SirYakari averages 1 million views per video and generates over 3.1 million CZK in net profit, positioning him  as a leader among YouTubers in the gaming content genre. In the case of focusing specifically on gaming content, it is      worth mentioning the need for a deeper analysis, which would consider factors such as engagement rate, the specific         content of gaming videos, and the overall activity of YouTubers in the past year.
 **Given all the factors mentioned, we do not recommend anyone in this scenario.**  
 
-3. **ViralBrothers SHOW is the best YouTuber (YouTube channel) to collaborate with if we are interested in maximizing our reach, as it offers significantly higher average views per video, leading to the highest potential net profit (25,680,000.00 CZK).** However, if we focus on children's products, it would be worth considering the channel Štístko a Poupěnka.
+3. **ViralBrothers SHOW is the best YouTuber (YouTube channel) to collaborate with if we are interested in maximizing our reach, as it offers significantly higher average views per video, leading to the highest potential net profit (25,680,000.00 CZK).** However, if we focus on small children's products, it would be worth considering the channel Štístko a Poupěnka because of its specific genre, even though its subscriber base is dramatically lower.
 
 4. 
 
