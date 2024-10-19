@@ -447,7 +447,7 @@ The idea of this scenario is to consider the profitability of **product placemen
 
 **SQL Query - Code and Output for 1st Scenario**
 
-<img src="assets/images/sql/analysis/total_subscibers_analysis.png" alt="1. Scenario - output" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/analysis/total_subscibers_analysis2.png" alt="1. Scenario - output" style="border: 0.5px solid black;"/>
 
 ##### 2. Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos  
   
@@ -524,7 +524,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
 
 **SQL Query - Code and Output for 2nd Scenario**
 
-<img src="assets/images/sql/analysis/total_videos_analysis.png" alt="2. Scenario - output" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/analysis/total_videos_analysis2.png" alt="2. Scenario - output" style="border: 0.5px solid black;"/>
   
 ##### 3. Scenario: Collaboration with YouTubers (YouTube Channels) with the most views  
 
@@ -581,7 +581,7 @@ In this scenario, we aim to analyze YouTubers with the highest view counts. Our 
 
 **SQL Query - Code and Output for 3rd Scenario**  
 
-<img src="assets/images/sql/analysis/total_views_analysis.png" alt="3. Scenario - output" style="border: 0.5px solid black;"/>  
+<img src="assets/images/sql/analysis/total_views_analysis2.png" alt="3. Scenario - output" style="border: 0.5px solid black;"/>  
 
 ### Conclusion
 
