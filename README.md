@@ -1,4 +1,4 @@
-# CZECH TOP YOUTUBERS 2024
+![image](https://github.com/user-attachments/assets/cf35f9b3-c322-401f-9e18-aec9ee8b6f02)# CZECH TOP YOUTUBERS 2024
 
 
 ![YouTube image](assets/images/youTubers.jpg)
@@ -632,17 +632,34 @@ If we are looking for a specific genre to focus on, such as drawing or even puzz
    
 ##### Course of Action
 
-Based on this analysis (the publicly available information), the best Youtube channel to cooperate on promotion of our product in long term partnership is ViralBrothers SHOW. 
+Based on this analysis (relying on the publicly available information), the best Youtube channel to cooperate on promotion of our product in long term partnership is ViralBrothers SHOW. 
 
 We will discuss the possibilities with our marketing department to confirm the expectations for the collaborations. It is important to validate whether all requirements have been met. For example, we may find that expectations have changed, such as targeting a more specific audience or that profit is no longer a priority. Based on this, we may reconsider our recommendations (or dig deeper into the analysis to monitor trends and patterns over a longer period) or move forward with potential collaborations with ViralBrothers SHOW or Mr. Michal in the future.
 
-What sort of actions should we undertake and why do we believe they are important?
+**What sort of actions should we undertake before we really decide (and start to implement the marketing strategy) and why do we believe they are important?**
 
+Should we focus on a deeper analysis?
+Considering all the information we have, it is clearly insufficient for such a complex task, and we should conduct at least a further in-depth analysis of both mentioned channels. Specifically, we would be interested in:
 
+- **Engagement rate:** This measures how many followers not only watch the videos but also engage through comments, likes, and shares. This will help us determine how engaged the audiences of these channels are. From the information available to us, we know that ViralBrothers SHOW has an engagement rate of 2.13%, while Mr. Michal has 3.32%. However, I did not use these figures for deeper analysis because they come from a different source than the other data. Although it has been verified that these data should be from the same period, we cannot state that with certainty; therefore, this figure was used more as a supplementary reference and for visualization in the dashboard.
 
-What actions should we take to implement the suggested decisions?
+- **Audience demographics**: Specifically, whether the channel’s focus aligns with the demographics of our average client (age, gender, interests).
 
-- Reach out to the teams associated with the ViralBrothers SHOW and Mr. Michal channels.
-- Negotiate contracts that stay within the budget set for each marketing campaign.
-- Launch the campaigns and monitor their performance against the established KPIs.
+- **Channel reach demographics:** Essentially, in which country or countries the YouTuber has the most impact on their followers.
+
+- **Channel focus:** Whether the channel’s focus aligns with the product.
+
+- **Reputation and credibility:** This refers to the YouTuber's reputation and whether they appear trustworthy and authentic.
+
+- **Trends in follower growth:** This would provide us insights into the channel’s performance over time.
+
+- **Frequency of video posting and overall annual activity on the channel:** This metric indicates the YouTuber's consistency in posting; a regular upload schedule helps maintain audience engagement and attract new subscribers. Additionally, understanding annual activity provides insight into how the YouTuber adapts to trends and keeps content fresh and relevant.
+
+Conducting all of these actions is recommended after this analysis to ensure we are truly confident in our choice of YouTuber for our product. However, this would require access to non-public information or, alternatively, gathering publicly available information through further research, as this data is not typically summarized anywhere outside of paid databases. Therefore, everything mentioned above also answers the question of whether commonly available information is sufficient to fulfill the task assigned to us by the marketing department.
+
+What actions should we take afterward to implement the suggested decisions?
+
+- Reach out to the teams associated with the ViralBrothers SHOW and/or Mr. Michal channels.
+- Negotiate contracts that remain within the budget set for each marketing campaign.
+- Launch the campaigns and monitor their performance against our established KPIs.
 - Assess the results of the campaigns, gather insights, and optimize based on feedback from converted customers and the audiences of each channel.
