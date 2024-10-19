@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cf35f9b3-c322-401f-9e18-aec9ee8b6f02)# CZECH TOP YOUTUBERS 2024
+# CZECH TOP YOUTUBERS 2024
 
 
 ![YouTube image](assets/images/youTubers.jpg)
