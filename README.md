@@ -636,6 +636,13 @@ Based on this analysis (relying on the publicly available information), the best
 
 We will discuss the possibilities with our marketing department to confirm the expectations for the collaborations. It is important to validate whether all requirements have been met. For example, we may find that expectations have changed, such as targeting a more specific audience or that profit is no longer a priority. Based on this, we may reconsider our recommendations (or dig deeper into the analysis to monitor trends and patterns over a longer period) or move forward with potential collaborations with ViralBrothers SHOW or Mr. Michal in the future.
 
+What actions should we take afterward to implement the suggested decisions?
+
+- Reach out to the teams associated with the ViralBrothers SHOW and/or Mr. Michal channels.
+- Negotiate contracts that remain within the budget set for each marketing campaign.
+- Launch the campaigns and monitor their performance against our established KPIs.
+- Assess the results of the campaigns, gather insights, and optimize based on feedback from converted customers and the audiences of each channel.
+
 **What sort of actions should we undertake before we really decide (and start to implement the marketing strategy) and why do we believe they are important?**
 
 Should we focus on a deeper analysis?
@@ -655,11 +662,4 @@ Considering all the information we have, it is clearly insufficient for such a c
 
 - **Frequency of video posting and overall annual activity on the channel:** This metric indicates the YouTuber's consistency in posting; a regular upload schedule helps maintain audience engagement and attract new subscribers. Additionally, understanding annual activity provides insight into how the YouTuber adapts to trends and keeps content fresh and relevant.
 
-Conducting all of these actions is recommended after this analysis to ensure we are truly confident in our choice of YouTuber for our product. However, this would require access to non-public information or, alternatively, gathering publicly available information through further research, as this data is not typically summarized anywhere outside of paid databases. Therefore, everything mentioned above also answers the question of whether commonly available information is sufficient to fulfill the task assigned to us by the marketing department.
-
-What actions should we take afterward to implement the suggested decisions?
-
-- Reach out to the teams associated with the ViralBrothers SHOW and/or Mr. Michal channels.
-- Negotiate contracts that remain within the budget set for each marketing campaign.
-- Launch the campaigns and monitor their performance against our established KPIs.
-- Assess the results of the campaigns, gather insights, and optimize based on feedback from converted customers and the audiences of each channel.
+Conducting all of these actions is recommended after this analysis to ensure we are truly confident in our choice of YouTuber for our product. However, this would require access to non-public information or, alternatively, gathering publicly available information through further research, as this data is not typically summarized anywhere outside of paid databases. Therefore, everything mentioned above also answers the question of whether commonly available information is sufficient to fulfill the task assigned to us by the marketing department, and we do not consider it sufficient. That is why we recommend the actions mentioned above.
