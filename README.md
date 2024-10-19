@@ -610,4 +610,6 @@ In this section, we will summarize the main information from our analysis and, b
 Across all categories, YouTubers (YouTube channels) focusing on entertainment, gaming content, or music, tend to dominate, likely due to their consistent posting on the platform.
 
 #### Recommendations
-
+1) first
+2) As mentioned in the Findings section, the second scenario appears to be dramatically less productive, resulting in a significantly lower return on investment. There is only one YouTuber worth considering in this case: **MenT (gaming content)**, who can generate a net profit, unlike other YouTubers in this category who are regular publishers.
+If our company were to focus on gaming content, there are likely better alternatives, such as SirYakari (even he was not part of this Sceanario, but in the third scenario, he performed significantly better than MenT ). Despite posting less frequently, SirYakari averages 1,020,000 views per video and generates over 5 million CZK in net profit, positioning him as a leader among YouTubers in the gaming content genre. In the case of focusing specifically on gaming content, it is worth mentioning the need for a deeper analysis, which would consider factors such as engagement rate, the specific content of gaming videos, and the overall activity of YouTubers in the past year.
