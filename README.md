@@ -552,7 +552,7 @@ In this scenario, we aim to analyze YouTubers with the highest view counts. Our 
    - Product cost = 200 CZK
    - Potential product sales per video =  6.66 million * 2 % (conversion rate) = 133,200.00 (units)
    - Potential revenue per video = 133,200.00 (units) * 200 (CZK) = 26,640,000.00 CZK
-   - Campaign cost (Contract duration: 2.5 to 3 months) =  960,000.00 CZK
+   - Campaign cost (Contract duration: 2.5 to 3 months based on fee variability) =  960,000.00 CZK
    - Potential net profit =  26,640,000.00 (CZK) - 960,000.00 (CZK) = 25,680,000.00 CZK  
 
 **2. Štístko a Poupěnka**
@@ -561,7 +561,7 @@ In this scenario, we aim to analyze YouTubers with the highest view counts. Our 
    - Product cost = 200 CZK
    - Potential product sales per video = 3.76 million * 2 % (conversion rate) = 75,200.00 (units)
    - Potential revenue per video = 75,200.00 (units) * 200 (CZK) = 15,040,000.00 CZK
-   - Campaign cost (Contract duration: 2.5 to 3 months) = 960,000.00 CZK
+   - Campaign cost (Contract duration: 2.5 to 3 months based on fee variability) = 960,000.00 CZK
    - Potential net profit =  15,040,000.00 (CZK) - 960,000.00 (CZK) = 14,080,000.00 CZK  
 
 **3. Puzzle guy**
@@ -570,7 +570,7 @@ In this scenario, we aim to analyze YouTubers with the highest view counts. Our 
    - Product cost = 200 CZK
    - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)
    - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 CZK
-   - Campaign cost (Contract duration: 2.5 to 3 months) = 960,000.00 CZK
+   - Campaign cost (Contract duration: 2.5 to 3 months based on fee variability) = 960,000.00 CZK
    - Potential net profit =  7,000,000.00 (CZK) - 960,000.00 (CZK) = 6,040,000.00 CZK
 
      Best alternative in this scenario is **ViralBrothers SHOW** with **25,680,000.00 CZK** potential net profit.  
