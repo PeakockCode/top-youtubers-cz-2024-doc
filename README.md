@@ -43,7 +43,7 @@ The goal is to create a dashboard that provides information to help the marketin
 - Number of subscribers
 - Total views per YouTuber
 - Total uploaded videos per YouTuber
-- Subscriber engagement rate
+- Engagement rate
 - etc.
 
 ## Data origin
