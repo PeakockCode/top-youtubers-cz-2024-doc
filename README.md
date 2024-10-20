@@ -198,8 +198,8 @@ No column should contain null values.
   
 We need to check following informations:  
 
-Number of rows and columns:  
-
+-	Number of rows and columns
+-	
 <table>
   <tr>
     <th style="text-align: center;">Property</th>
@@ -215,7 +215,7 @@ Number of rows and columns:
   </tr>
 </table>  
 
-Data types a column names:  
+- The data types and column names 
 
 <table>
   <tr>
