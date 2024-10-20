@@ -3,11 +3,27 @@
 
 ![YouTube image](assets/images/youTubers.jpg)
 
-1. [Intention](#Intention)
+## Table of Contents
+
+- [Intention](#Intention)
+  - [Goal](#Goal)
+  - [Solution Idea](#Solution Idea)
+- [Data origin](#Data origin)
+- [Project Steps](#Project Steps)
+- [Dashboard Design](#Dashboard Design)
+  - [Required Dashboard Elements](#Required Dashboard Elements)
+  - [Dashboard Visualization](#Dashboard Visualization)
+  - [Tools requirements](#Tools requirements)
+- [Project building](#Project building)
+  - [General Workflow](#General Workflow)
+  - [Data exploration](#Data exploration)
+  - [Data cleaning and testing](#Data cleaning and testing)
+
+
 
 ## Intention
 
-### What is the goal?
+### Goal
 The marketing department wants to identify and analyze the top YouTubers in the Czech Republic for 2024 to determine which content creators would be the best fit for marketing campaigns next year. They want to focus on the YouTube channels of the top 100 YouTubers and would like to know if it is sufficient to use public sources to obtain the data.
 
 ### Solution Idea
