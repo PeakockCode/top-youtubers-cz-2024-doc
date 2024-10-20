@@ -30,10 +30,10 @@ The necessary data about the top YouTubers in the Czech Republic for 2024 includ
 - Engagement rate
 - etc.
 
-Source of the data: 
+Source of the data:  
 1) <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">Ranking of the top Czech YouTubers</a>  
 2) <a href="https://developers.google.com/youtube/v3/getting-started" target="_blank">YouTube API</a>  
-3) <a href="https://hypeauditor.com" target="_blank">Other statistics</a>
+3) <a href="https://hypeauditor.com" target="_blank">Other statistics</a>  
 
 ## Project Steps
 
@@ -151,11 +151,11 @@ No column should contain null values.
 - Remove null (or blank Values) - We do not need columns with NULL or blank values in this case.
 - **Remove unnecessary Columns** - Eliminate irrelevant columns by selecting only the relevant ones (creating a special view).  
 
-**1. Standardize data**  
+**1) Standardize data**  
 
 <img src="assets/images/sql/cleaning/1.step-standardize_data3.png" alt="1. step of data cleaning" style="border: 0.5px solid black;"/>
 
-**2. Create the SQL view**   
+**2) Create the SQL view**   
 
 <img src="assets/images/sql/cleaning/2.step-create_view.png" alt="2. step creating view" style="border: 0.5px solid black;"/>
 
@@ -309,7 +309,7 @@ Here are the main topics we need to answer:
 - Which 10 YouTubers (YouTube channels) have the best views-to-subscriber ratio?
 - Who are the 10 YouTubers (YouTube channels) with the highest subscriber engagement rate per video?
 
-**1. What are the 10 YouTubers (YouTube channels) with the largest subscriber base?**  
+**1) What are the 10 YouTubers (YouTube channels) with the largest subscriber base?**  
 
 | Rank | Channel Name                  | Subscribers (M) |
 |------|-------------------------------|-----------------|
@@ -324,7 +324,7 @@ Here are the main topics we need to answer:
 | 9    | FIZIstyle                     |       1.16      |
 | 10   | Mr. Michal                    |       1.12      |  
 
-**2. Which 10 YouTubers (YouTube channels) have posted the most content?** 
+**2) Which 10 YouTubers (YouTube channels) have posted the most content?** 
 
 | Rank | Channel Name                      | Total Videos |
 |------|-----------------------------------|:------------:|
@@ -339,7 +339,7 @@ Here are the main topics we need to answer:
 | 9    | PedrosGame                        |     2,827    |
 | 10   | Alexander Zakshevsky              |     2,780    |  
 
-**3. Who are the 10 YouTubers (YouTube channels) with the highest total view count?**  
+**3) Who are the 10 YouTubers (YouTube channels) with the highest total view count?**  
 
 | Rank | Channel Name                          |  Total Views(M) |
 |:---- |:--------------------------------------|:-----------------:|
@@ -354,7 +354,7 @@ Here are the main topics we need to answer:
 | 9    | Blakkwood Records                     |        540.98     |
 | 10   | Radio Free Europe/Radio Liberty       |        535.21     |  
 
-**4. What are the 10 YouTubers (YouTube channels) that get the highest average views per video?**  
+**4) What are the 10 YouTubers (YouTube channels) that get the highest average views per video?**  
 
 | Rank | Channel Name               |  Avg Views Per Video (M) |
 |:---- |:---------------------------|:------------------------:|
@@ -369,7 +369,7 @@ Here are the main topics we need to answer:
 | 9    | Slza                       |           3.35           |
 | 10   | Ben Cristovao              |           2.26           |  
 
-**5. Which 10 YouTubers (YouTube channels) have the best views-to-subscriber ratio?**
+**5) Which 10 YouTubers (YouTube channels) have the best views-to-subscriber ratio?**
 
 | Rank | Channel Name               | Views Per Subscriber |
 |:---- |:---------------------------|:--------------------:|
@@ -384,7 +384,7 @@ Here are the main topics we need to answer:
 | 9    | TOP veci do 2 minut        |         734          |
 | 10   | Alkanhraje                 |         729          |  
 
-**6. Who are the 10 YouTubers (YouTube channels) with the highest subscriber engagement rate per video?**
+**6) Who are the 10 YouTubers (YouTube channels) with the highest subscriber engagement rate per video?**
 
 | Rank | Channel Name             |  Engagement Rate  |
 |:---- |:-------------------------|:-----------------:|
@@ -405,7 +405,7 @@ In this analysis, we will primarily prioritize the key metrics essential for ach
 
 These metrics (YouTube channels with the highest number of subscribers, total videos uploaded, and total views) will be used in three simulation scenarios through which we will attempt to find suitable YouTubers. These scenarios will help us evaluate different approaches and campaign costs, allowing us to visualize the varying profitability of individual campaigns.
 
-##### 1. Scenario: Collaboration (based on product placement) with YouTubers (YouTube Channels) with the Most Subscribers 
+##### 1) Scenario: Collaboration (based on product placement) with YouTubers (YouTube Channels) with the Most Subscribers 
 
 The idea of this scenario is to consider the profitability of **product placements** in videos by collaborating with YouTubers who have the highest number of subscribers. We will identify the 3 most suitable YouTubers (YouTube channels).  
 
@@ -426,7 +426,7 @@ The idea of this scenario is to consider the profitability of **product placemen
 | 3       | Puzzle Guy         | Puzzle content          |  
   
   
-**1. Mr. Michal**
+**1) Mr. Michal**
    
    - Average views per video = 4.56 million
    - Product cost = 200 CZK
@@ -435,7 +435,7 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Campaign cost (one-time fee/period) =  500,000.00 CZK
    - Potential net profit =  18,240,000.00 (CZK) - 500,000.00 (CZK) = 17,740,000.00 CZK  
 
-**2. Silvie Mahdal**
+**2) Silvie Mahdal**
    
    - Average views per video = 3.48 million
    - Product cost = 200 CZK
@@ -444,7 +444,7 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Campaign cost (one-time fee/period) = 500,000.00 CZK
    - Potential net profit =  13,920,000.00 (CZK) - 500,000.00 (CZK) = 13,420,000.00 CZK  
 
-**3. Puzzle guy**
+**3) Puzzle guy**
    
    - Average views per video = 1.75 million
    - Product cost = 200 CZK
@@ -463,7 +463,7 @@ The idea of this scenario is to consider the profitability of **product placemen
 
 <img src="assets/images/sql/analysis/total_subscibers_analysis2.png" alt="1. Scenario - output" style="border: 0.5px solid black;"/>
 
-##### 2. Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos  
+##### 2) Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos  
   
 The goal of this scenario is to evaluate the profitability of video series through sponsorships with YouTubers who have the highest number of uploaded videos. We will select the three most suitable YouTubers (YouTube channels).
 
@@ -486,7 +486,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
 | 3       | Godzu                  | Gaming content       |
 | 3       | PedrosGame             | Gaming content       |  
   
-**1. MenT**
+**1) MenT**
    
    - Average views per video = 300,000
    - Product cost = 200 CZK
@@ -497,7 +497,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
    - Potential net profit = 1,200,000.00 (CZK) - 600,000 (CZK) = 600,000.00 CZK  
 
-**2. Alexander Zakshevsky**
+**2) Alexander Zakshevsky**
    
    - Average views per video = 140,000
    - Product cost = 200 CZK
@@ -508,7 +508,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
    - Potential net profit = 560,000.00 (CZK) - 600,000 (CZK) = -40,000.00 CZK **(potential loss)** 
 
-**3. Godzu**
+**3) Godzu**
    
    - Average views per video = 130,000
    - Product cost = 200 CZK
@@ -519,7 +519,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
    - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
    - Potential net profit =  520,000.00 (CZK) - 600,000 (CZK) = -80,000.000 (CZK) **(potential loss)** 
 
-**3. PedrosGame**
+**3) PedrosGame**
    
    - Average views per video = 130,000
    - Product cost = 200 CZK
@@ -540,7 +540,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
 
 <img src="assets/images/sql/analysis/total_videos_analysis2.png" alt="2. Scenario - output" style="border: 0.5px solid black;"/>
   
-##### 3. Scenario: Collaboration with YouTubers (YouTube Channels) with the most views  
+##### 3) Scenario: Collaboration with YouTubers (YouTube Channels) with the most views  
 
 In this scenario, we aim to analyze YouTubers with the highest view counts. Our focus will be on evaluating the profitability of influencer marketing (with a 2.5 to 3-month contract) through collaborations with these YouTubers. To achieve this, we will select the three most suitable YouTubers (YouTube channels) for our campaign.
 
@@ -560,7 +560,7 @@ In this scenario, we aim to analyze YouTubers with the highest view counts. Our 
 | 2    | Štístko a Poupěnka        | Children's entertainment |
 | 3    | Puzzle Guy                | Puzzle solving           |  
 
-**1. ViralBrothers SHOW**
+**1) ViralBrothers SHOW**
    
    - Average views per video = 6.66 million
    - Product cost = 200 CZK
@@ -569,7 +569,7 @@ In this scenario, we aim to analyze YouTubers with the highest view counts. Our 
    - Campaign cost (Contract duration: 2.5 to 3 months based on fee variability) =  960,000.00 CZK
    - Potential net profit =  26,640,000.00 (CZK) - 960,000.00 (CZK) = 25,680,000.00 CZK  
 
-**2. Štístko a Poupěnka**
+**2) Štístko a Poupěnka**
    
    - Average views per video = 3.76 million
    - Product cost = 200 CZK
@@ -578,7 +578,7 @@ In this scenario, we aim to analyze YouTubers with the highest view counts. Our 
    - Campaign cost (Contract duration: 2.5 to 3 months based on fee variability) = 960,000.00 CZK
    - Potential net profit =  15,040,000.00 (CZK) - 960,000.00 (CZK) = 14,080,000.00 CZK  
 
-**3. Puzzle guy**
+**3) Puzzle guy**
    
    - Average views per video = 1.75 million
    - Product cost = 200 CZK
@@ -627,22 +627,22 @@ Across all categories, YouTubers (YouTube channels) focusing on entertainment, g
 
 ##### Resume
 
-1. **The best YouTuber (YouTube channel) we recommend collaborating with based on product placement (the first scenario) is Mr. Michal**, as he is the optimal choice for enhancing visibility on YouTube and achieving the highest potential net profit (over 17.7 million CZK). While he may not have the largest subscriber base, his high views per video make him a valuable partner for our marketing campaign.
+1) **The best YouTuber (YouTube channel) we recommend collaborating with based on product placement (the first scenario) is Mr. Michal**, as he is the optimal choice for enhancing visibility on YouTube and achieving the highest potential net profit (over 17.7 million CZK). While he may not have the largest subscriber base, his high views per video make him a valuable partner for our marketing campaign.
 
-2. As mentioned in the Findings section, the second scenario appears to be dramatically less productive, resulting in a significantly lower return on investment. There is only one YouTuber worth considering in this case: MenT (gaming content), who can generate potential net profit, unlike other YouTubers in this category who are regular publishers. If our company were to focus on gaming content, there are likely better alternatives, such as SirYakari (even though he was not part of this scenario, in the third scenario, he performed significantly better than MenT). Despite posting less frequently, SirYakari averages 1 million views per video and generates over 3.1 million CZK in net profit, positioning him as a leader among YouTubers in the gaming content genre. In the case of focusing specifically on gaming content, it is worth mentioning the need for a deeper analysis, which would consider factors such as engagement rate, the specific content of gaming videos, and the overall activity of YouTubers in the past year. **Given all the factors mentioned, we do not recommend anyone in this scenario.**
+2) As mentioned in the Findings section, the second scenario appears to be dramatically less productive, resulting in a significantly lower return on investment. There is only one YouTuber worth considering in this case: MenT (gaming content), who can generate potential net profit, unlike other YouTubers in this category who are regular publishers. If our company were to focus on gaming content, there are likely better alternatives, such as SirYakari (even though he was not part of this scenario, in the third scenario, he performed significantly better than MenT). Despite posting less frequently, SirYakari averages 1 million views per video and generates over 3.1 million CZK in net profit, positioning him as a leader among YouTubers in the gaming content genre. In the case of focusing specifically on gaming content, it is worth mentioning the need for a deeper analysis, which would consider factors such as engagement rate, the specific content of gaming videos, and the overall activity of YouTubers in the past year. **Given all the factors mentioned, we do not recommend anyone in this scenario.**
 
-3. **ViralBrothers SHOW is the best YouTuber (YouTube channel) to collaborate with based on contract if we are interested in maximizing our reach (the third scenario)**, as it offers significantly higher average views per video, leading to the highest potential net profit (25,680,000.00 CZK). However, if we focus on small children's products, it would be worth considering the channel Štístko a Poupěnka because of its specific genre, even though its subscriber base is dramatically lower.
+3) **ViralBrothers SHOW is the best YouTuber (YouTube channel) to collaborate with based on contract if we are interested in maximizing our reach (the third scenario)**, as it offers significantly higher average views per video, leading to the highest potential net profit (25,680,000.00 CZK). However, if we focus on small children's products, it would be worth considering the channel Štístko a Poupěnka because of its specific genre, even though its subscriber base is dramatically lower.
 
-4. **The top YouTubers to collaborate with based on our findings are ViralBrothers SHOW and Mr. Michal.** They are the best options due to their main genre of entertainment, which is broader compared to the other selected YouTubers. Both also have a fairly large subscriber base, and combined with their high profit potential, they are good candidates for long-term cooperation.
+4) **The top YouTubers to collaborate with based on our findings are ViralBrothers SHOW and Mr. Michal.** They are the best options due to their main genre of entertainment, which is broader compared to the other selected YouTubers. Both also have a fairly large subscriber base, and combined with their high profit potential, they are good candidates for long-term cooperation.
 If we are looking for a specific genre to focus on, such as drawing or even puzzle-solving, then Silvie Mahdal (potentially Puzzle Guy) could also be a good option. Their subscriber base and engagement rate are the highest, but their content is aimed at a narrow audience.
 
 ##### Potential profit  
 
-1. Signing a contract with the YouTube channel ViralBrothers SHOW could result in a net profit of 25,680,000 CZK.
-2. Collaboration with YouTuber Mr. Michal would bring us net profit of 17,740,000.00 CZK.
-3. From an influencer marketing contract with the YouTube channel Štístko a Poupěnka, we could expect a profit of 14,080,000 CZK.
-4. A partnership based on product placement with YouTuber Silvie Mahdal could generate a profit of 13,420,000 CZK.
-4. A product placement campaign with YouTuber Puzzle Guy could generate a profit of 6,500,000 CZK, while a contract-based collaboration would bring in 6,040,000 CZK.
+1) Signing a contract with the YouTube channel ViralBrothers SHOW could result in a net profit of 25,680,000 CZK.
+2) Collaboration with YouTuber Mr. Michal would bring us net profit of 17,740,000.00 CZK.
+3) From an influencer marketing contract with the YouTube channel Štístko a Poupěnka, we could expect a profit of 14,080,000 CZK.
+4) A partnership based on product placement with YouTuber Silvie Mahdal could generate a profit of 13,420,000 CZK.
+5) A product placement campaign with YouTuber Puzzle Guy could generate a profit of 6,500,000 CZK, while a contract-based collaboration would bring in 6,040,000 CZK.
    
 ##### Course of Action
 
