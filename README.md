@@ -17,11 +17,18 @@
 - [Project building](#Project-building)
   - [General Workflow](#General-Workflow)
   - [Data exploration](#Data-exploration)
-  - [Data cleaning and testing](#Data-cleaning-and-testing)
-- [Visualization, Analysis and Conclusion](#Visualization,-Analysis-and-Conclusion)
+- [Data cleaning and testing](#Data-cleaning-and-testing)
+  - [Data cleaning and preparation](#Data-cleaning-and-preparation)
+  - [Data testing](#Data-testing)
+- [Visualization](#Visualization)
   - [Data Visualization](#Data-Visualization)
-  - [Analysis](#Analysis)
-  - [Conclusion](#Conclusion)
+  - [Measures](#Measures)
+- [Analysis](#Analysis)
+  - [Results](#Results)
+  - [Validation - Scenarios ](#Validation---Scenarios )
+- [Conclusion](#Conclusion)
+  - [Findings](#Findings)
+  - [Recommendations](#Recommendations)
 
 
 
@@ -59,10 +66,12 @@ Source of the data:
 
 ## Project Steps
 
-- Design
-- Project building
-- Data cleaning and testing
-- Visualization, Analysis and conclusion
+- Design  
+- Project building  
+- Data cleaning and testing  
+- Visualization  
+- Analysis  
+- Conclusion  
 
 ## Dashboard Design
 
@@ -152,9 +161,9 @@ In the next phase, we gain an overview of what the data contains, identifying er
 
 - We actually have more data than we currently need. Therefore, it is also necessary to focus on this and decide whether we will remove some of these columns and how we will do so.
 
-### Data cleaning and testing
+## Data cleaning and testing
 
-#### Data cleaning and preparation
+### Data cleaning and preparation
 
 The aim is to modify our dataset to ensure it is organized and ready for analysis.
 
@@ -166,7 +175,7 @@ We need to standardize the data (rename column names, retrieve unambiguous ident
 The data types in the columns must be suitable for the data in each column.
 No column should contain null values.
 
-##### What steps are needed to clean and modify the data into the required format?
+#### What steps are needed to clean and modify the data into the required format?
 
 - Remove Duplicates - There are no duplicates in this dataset.
 - **Standardize the Data** - Extract YouTube channel names from the first column and rename columns using appropriate aliases.
@@ -182,7 +191,7 @@ No column should contain null values.
 <img src="assets/images/sql/cleaning/2.step-create_view.png" alt="2. step creating view" style="border: 0.5px solid black;"/>
 
 
-#### Data testing
+### Data testing
 
 - What quality data checks are necessary to create? 
 - What data validation do we need to ensure the dataset?
@@ -262,7 +271,7 @@ The following data quality checks have been performed to ensure the dataset is a
 
 <img src="assets/images/sql/data_check/duplicates_check3.png" alt="duplicates" style="border: 0.5px solid black;"/>
   
-## Visualization, Analysis and Conclusion
+## Visualization
 
 ### Data Visualization 
 
@@ -274,9 +283,9 @@ The following data quality checks have been performed to ensure the dataset is a
 **Gif**
 <img src="assets/images/dashboard_video/DashboardVideo.gif" alt="dashboard video"/>  
 
-#### Measures
+### Measures
 
-##### DAX Measures in Power BI
+#### DAX Measures in Power BI
 
 1) Total Subscribers (M)  
 
@@ -302,7 +311,7 @@ The following data quality checks have been performed to ensure the dataset is a
 
 <img src="assets/images/dax_measures/views_per_subscriber5.png" alt="dax-views per subscriber"/>  
 
-##### Tableau Measures  
+#### Tableau Measures  
 
 1) Average Views Per Video  
 
@@ -316,9 +325,9 @@ The following data quality checks have been performed to ensure the dataset is a
 
 <img src="assets/images/tableau_measures/views_per_subscriber.png" alt="tableau-views per subscriber"/>  
 
-### Analysis
+## Analysis
 
-#### Results overview
+### Results overview
 
 For this analysis, we're going to focus on the questions that should provide answers to the marketing department.
 
@@ -423,11 +432,11 @@ Here are the main topics we need to answer:
 
 In this analysis, we will primarily prioritize the key metrics essential for achieving the expected Return on Investment (ROI) for our marketing department, specifically focusing on YouTube channels with the highest number of subscribers, total videos uploaded, and total view count. By analyzing these metrics, we aim to identify the most suitable YouTubers to optimize our marketing department efforts on the platform.  
 
-#### Validation - Scenarios  
+### Validation - Scenarios  
 
 These metrics (YouTube channels with the highest number of subscribers, total videos uploaded, and total views) will be used in three simulation scenarios through which we will attempt to find suitable YouTubers. These scenarios will help us evaluate different approaches and campaign costs, allowing us to visualize the varying profitability of individual campaigns.
 
-##### 1) Scenario: Collaboration (based on product placement) with YouTubers (YouTube Channels) with the Most Subscribers 
+#### 1) Scenario: Collaboration (based on product placement) with YouTubers (YouTube Channels) with the Most Subscribers 
 
 The idea of this scenario is to consider the profitability of **product placements** in videos by collaborating with YouTubers who have the highest number of subscribers. We will identify the 3 most suitable YouTubers (YouTube channels).  
 
@@ -485,7 +494,7 @@ The idea of this scenario is to consider the profitability of **product placemen
 
 <img src="assets/images/sql/analysis/total_subscibers_analysis2.png" alt="1. Scenario - output" style="border: 0.5px solid black;"/>
 
-##### 2) Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos  
+#### 2) Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos  
   
 The goal of this scenario is to evaluate the profitability of video series through sponsorships with YouTubers who have the highest number of uploaded videos. We will select the three most suitable YouTubers (YouTube channels).
 
@@ -562,7 +571,7 @@ The goal of this scenario is to evaluate the profitability of video series throu
 
 <img src="assets/images/sql/analysis/total_videos_analysis2.png" alt="2. Scenario - output" style="border: 0.5px solid black;"/>
   
-##### 3) Scenario: Collaboration with YouTubers (YouTube Channels) with the most views  
+#### 3) Scenario: Collaboration with YouTubers (YouTube Channels) with the most views  
 
 In this scenario, we aim to analyze YouTubers with the highest view counts. Our focus will be on evaluating the profitability of influencer marketing (with a 2.5 to 3-month contract) through collaborations with these YouTubers. To achieve this, we will select the three most suitable YouTubers (YouTube channels) for our campaign.
 
@@ -619,11 +628,11 @@ In this scenario, we aim to analyze YouTubers with the highest view counts. Our 
 
 <img src="assets/images/sql/analysis/total_views_analysis2.png" alt="3. Scenario - output" style="border: 0.5px solid black;"/>  
 
-### Conclusion
+## Conclusion
 
 In this section, we will summarize the main information from our analysis and, based on these insights, provide recommendations for the marketing department.
 
-#### Findings
+### Findings
 
 1) Regarding the YouTubers (YouTube channels) with the most subscribers, we found out:
    
@@ -645,9 +654,9 @@ In this section, we will summarize the main information from our analysis and, b
 
 Across all categories, YouTubers (YouTube channels) focusing on entertainment, gaming content, or music, tend to dominate, likely due to their consistent posting on the platform.
 
-#### Recommendations  
+### Recommendations  
 
-##### Resume
+#### Resume
 
 1) **The best YouTuber (YouTube channel) we recommend collaborating with based on product placement (the first scenario) is Mr. Michal**, as he is the optimal choice for enhancing visibility on YouTube and achieving the highest potential net profit (over 17.7 million CZK). While he may not have the largest subscriber base, his high views per video make him a valuable partner for our marketing campaign.
 
@@ -658,7 +667,7 @@ Across all categories, YouTubers (YouTube channels) focusing on entertainment, g
 4) **The top YouTubers to collaborate with based on our findings are ViralBrothers SHOW and Mr. Michal.** They are the best options due to their main genre of entertainment, which is broader compared to the other selected YouTubers. Both also have a fairly large subscriber base, and combined with their high profit potential, they are good candidates for long-term cooperation.
 If we are looking for a specific genre to focus on, such as drawing or even puzzle-solving, then Silvie Mahdal (potentially Puzzle Guy) could also be a good option. Their subscriber base and engagement rate are the highest, but their content is aimed at a narrow audience.
 
-##### Potential profit  
+#### Potential profit  
 
 1) Signing a contract with the YouTube channel ViralBrothers SHOW could result in a net profit of 25,680,000 CZK.  
 2) Collaboration with YouTuber Mr. Michal would bring us net profit of 17,740,000.00 CZK.  
@@ -666,7 +675,7 @@ If we are looking for a specific genre to focus on, such as drawing or even puzz
 4) A partnership based on product placement with YouTuber Silvie Mahdal could generate a profit of 13,420,000 CZK.  
 5) A product placement campaign with YouTuber Puzzle Guy could generate a profit of 6,500,000 CZK, while a contract-based collaboration would bring in 6,040,000 CZK.  
    
-##### Course of Action
+#### Course of Action
 
 Based on this analysis (relying on the publicly available information), the best Youtube channel to cooperate on promotion of our product in long term partnership is ViralBrothers SHOW. 
 
