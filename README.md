@@ -638,11 +638,11 @@ If we are looking for a specific genre to focus on, such as drawing or even puzz
 
 ##### Potential profit  
 
-1) Signing a contract with the YouTube channel ViralBrothers SHOW could result in a net profit of 25,680,000 CZK.
-2) Collaboration with YouTuber Mr. Michal would bring us net profit of 17,740,000.00 CZK.
-3) From an influencer marketing contract with the YouTube channel Štístko a Poupěnka, we could expect a profit of 14,080,000 CZK.
-4) A partnership based on product placement with YouTuber Silvie Mahdal could generate a profit of 13,420,000 CZK.
-5) A product placement campaign with YouTuber Puzzle Guy could generate a profit of 6,500,000 CZK, while a contract-based collaboration would bring in 6,040,000 CZK.
+1) Signing a contract with the YouTube channel ViralBrothers SHOW could result in a net profit of 25,680,000 CZK.  
+2) Collaboration with YouTuber Mr. Michal would bring us net profit of 17,740,000.00 CZK.  
+3) From an influencer marketing contract with the YouTube channel Štístko a Poupěnka, we could expect a profit of 14,080,000 CZK.  
+4) A partnership based on product placement with YouTuber Silvie Mahdal could generate a profit of 13,420,000 CZK.  
+5) A product placement campaign with YouTuber Puzzle Guy could generate a profit of 6,500,000 CZK, while a contract-based collaboration would bring in 6,040,000 CZK.  
    
 ##### Course of Action
 
