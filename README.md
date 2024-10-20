@@ -643,7 +643,7 @@ In this section, we will summarize the main information from our analysis and, b
 
 2) Focusing on the YouTubers (YouTube channels) with the most uploaded videos, we learned:
    
-  - The YouTubers (YouTube channels) that posted the most content (including Radio Free Europe/Radio Liberty with               9,649 videos uploaded) did not suceed in the 2nd Scenario.
+  - The YouTubers (YouTube channels) that posted the most content, including Radio Free Europe/Radio Liberty with 9,649          videos uploaded, did not succeed in the 2nd scenario.
   - The only YouTuber (YouTube channel) able to generate profit in the 2nd Scenario is MenT, with a potential net profit         600,000.00 CZK. All others show a potential loss.
   - This Scenario appears to be less productive and much riskier compared to the others.
 
@@ -670,7 +670,7 @@ If we are looking for a specific genre to focus on, such as drawing or even puzz
 #### Potential profit  
 
 1) Signing a contract with the YouTube channel ViralBrothers SHOW could result in a net profit of 25,680,000 CZK.  
-2) Collaboration with YouTuber Mr. Michal would bring us net profit of 17,740,000.00 CZK.  
+2) The collaboration with YouTuber Mr. Michal would bring us net profit of 17,740,000.00 CZK.  
 3) From an influencer marketing contract with the YouTube channel Štístko a Poupěnka, we could expect a profit of 14,080,000 CZK.  
 4) A partnership based on product placement with YouTuber Silvie Mahdal could generate a profit of 13,420,000 CZK.  
 5) A product placement campaign with YouTuber Puzzle Guy could generate a profit of 6,500,000 CZK, while a contract-based collaboration would bring in 6,040,000 CZK.  
@@ -695,7 +695,7 @@ What actions should we take afterward to implement the suggested decisions?
 Should we focus on a deeper analysis?
 Considering all the information we have, it is clearly insufficient for such a complex task, and we should conduct at least a further in-depth analysis of both mentioned channels. Specifically, we would be interested in:
 
-- **Engagement rate:** This measures how many followers not only watch the videos but also engage through comments, likes, and shares. This will help us determine how engaged the audiences of these channels are. From the information available to us, we know that ViralBrothers SHOW has an engagement rate of 2.13%, while Mr. Michal has 3.32%. However, I did not use these figures for deeper analysis because they come from a different source than the other data. Although it has been verified that these data should be from the same period, we cannot state that with certainty; therefore, this figure was used more as a supplementary reference and for visualization in the dashboard.
+- **Engagement rate:** This measures how many followers not only watch the videos but also engage through comments, likes, and shares. This will help us determine how engaged the audiences of these channels are. From the information available to us, we know that ViralBrothers SHOW has an engagement rate of 2.13%, while Mr. Michal has 3.32%. However, I did not use these figures for deeper analysis because they come from a different source than the other data. Although it has been verified that this data should be from the same period, we cannot state that with certainty; therefore, this figure was used more as a supplementary reference and for visualization in the dashboard.
 
 - **Audience demographics**: Specifically, whether the channel’s focus aligns with the demographics of our average client (age, gender, interests).
 
@@ -705,8 +705,8 @@ Considering all the information we have, it is clearly insufficient for such a c
 
 - **Reputation and credibility:** This refers to the YouTuber's reputation and whether they appear trustworthy and authentic.
 
-- **Trends in follower growth:** This would provide us insights into the channel’s performance over time.
+- **Trends in follower growth:** Analyzing trends in follower growth would provide us with insights into the channel’s performance over time.
 
-- **Frequency of video posting and overall annual activity on the channel:** This metric indicates the YouTuber's consistency in posting; a regular upload schedule helps maintain audience engagement and attract new subscribers. Additionally, understanding annual activity provides insight into how the YouTuber adapts to trends and keeps content fresh and relevant.
+- **Frequency of video posting and overall annual activity on the channel:** This metric indicates the YouTuber's consistency in posting; a regular upload schedule helps maintain audience engagement and attract new subscribers. Additionally, understanding annual activity provides insight into how YouTuber adapts to trends and keeps content fresh and relevant.
 
 Conducting all of these actions is recommended after this analysis to ensure we are truly confident in our choice of YouTuber for our product. However, this would require access to non-public information or, alternatively, gathering publicly available information through further research, as this data is not typically summarized anywhere outside of paid databases. Therefore, everything mentioned above also answers the question of whether commonly available information is sufficient to fulfill the task assigned to us by the marketing department, and we do not consider it sufficient. That is why we recommend the actions mentioned above.
