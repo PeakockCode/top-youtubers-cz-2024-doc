@@ -90,7 +90,7 @@ To outline the content, we first need to identify some key questions that the da
 |         5        | Which channels have the best views to subscriber ratio?                       |
 |         6        | Which channels display the strongest subscriber engagement rate*?             |  
 
-**Subsciber engagement rate - the percentage of viewers who interact with the influencer's content*  
+**Subscriber engagement rate - the percentage of viewers who interact with the influencer's content*  
 
 These are some initial questions we aim to answer to reach our goal.
 
