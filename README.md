@@ -282,7 +282,7 @@ The following data quality checks have been performed to ensure the dataset is a
 
 ##### Tableau Measures  
 
-1. Average Views Per Video
+1. Average Views Per Video  
 
 <img src="assets/images/tableau_measures/avg_views_per_video.png" alt="tableau-avg views per video"/>  
 
