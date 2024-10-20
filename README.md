@@ -484,7 +484,7 @@ The idea of this scenario is to consider the profitability of **product placemen
    - Campaign cost (one-time fee/period) = 500,000.00 CZK
    - Potential net profit =  7,000,000.00 (CZK) - 500,000.00 (CZK) = 6,500,000.00 CZK  
 
-   Best alternative in this scenario is **Mr. Michal** with **17,740,000.00 CZK** potential net profit.  
+   The best alternative in this scenario is **Mr. Michal** with **17,740,000.00 CZK** potential net profit.  
 
 **SQL Query - Variables Initialization for 1st Scenario**  
 
