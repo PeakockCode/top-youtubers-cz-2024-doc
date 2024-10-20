@@ -626,7 +626,7 @@ In this scenario, we aim to analyze YouTubers with the highest view counts. Our 
 
 **SQL Query - Code and Output for 3rd Scenario**  
 
-<img src="assets/images/sql/analysis/total_views_analysis2.png" alt="3. Scenario - output" style="border: 0.5px solid black;"/>  
+<img src="assets/images/sql/analysis/total_views_analysis3.png" alt="3. Scenario - output" style="border: 0.5px solid black;"/>  
 
 ## Conclusion
 
