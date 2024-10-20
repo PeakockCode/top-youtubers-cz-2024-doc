@@ -196,7 +196,7 @@ No column should contain null values.
 - What quality data checks are necessary to create? 
 - What data validation do we need to ensure the dataset?
   
-We need to check following informations:  
+**We need to check following informations:**  
 
 -	Number of rows and columns
 -	
