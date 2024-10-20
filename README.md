@@ -99,9 +99,9 @@ These are some initial questions we aim to answer to reach our goal.
 The data visuals that will be suitable for answering our questions include:  
 Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations such as Treemaps.
 
-**Dasbhoard mockup:**
+**Dashboard mockup:**
 
-![Dasbhoard mockup](assets/images/dashboard/TopYouTubers_CZ2024_DashboardMockup.png)
+![Dashboard mockup](assets/images/dashboard/TopYouTubers_CZ2024_DashboardMockup.png)
 
 ### Tools requirements
 
