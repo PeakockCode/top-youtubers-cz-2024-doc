@@ -7,17 +7,17 @@
 
 - [Intention](#Intention)
   - [Goal](#Goal)
-  - [Solution Idea](#Solution Idea)
-- [Data origin](#Data origin)
-- [Project Steps](#Project Steps)
-- [Dashboard Design](#Dashboard Design)
-  - [Required Dashboard Elements](#Required Dashboard Elements)
-  - [Dashboard Visualization](#Dashboard Visualization)
-  - [Tools requirements](#Tools requirements)
-- [Project building](#Project building)
-  - [General Workflow](#General Workflow)
-  - [Data exploration](#Data exploration)
-  - [Data cleaning and testing](#Data cleaning and testing)
+  - [Solution Idea](#Solution-Idea)
+- [Data origin](#Data-origin)
+- [Project Steps](#Project-Steps)
+- [Dashboard Design](#Dashboard-Design)
+  - [Required Dashboard Elements](#Required-Dashboard-Elements)
+  - [Dashboard Visualization](#Dashboard-Visualization)
+  - [Tools requirements](#Tools-requirements)
+- [Project building](#Project-building)
+  - [General Workflow](#General-Workflow)
+  - [Data exploration](#Data-exploration)
+  - [Data cleaning and testing](#Data-cleaning-and-testing)
 
 
 
