@@ -677,7 +677,7 @@ If we are looking for a specific genre to focus on, such as drawing or even puzz
    
 #### Course of Action
 
-Based on this analysis (relying on the publicly available information), the best Youtube channel to cooperate on promotion of our product in long term partnership is ViralBrothers SHOW. 
+Based on this analysis (relying on the publicly available information), the best YouTube channel to cooperate on promotion of our product in a long-term partnership is ViralBrothers SHOW. 
 
 We will discuss the possibilities with our marketing department to confirm the expectations for the collaborations. It is important to validate whether all requirements have been met. For example, we may find that expectations have changed, such as targeting a more specific audience or that profit is no longer a priority. Based on this, we may reconsider our recommendations (or dig deeper into the analysis to monitor trends and patterns over a longer period) or move forward with potential collaborations with ViralBrothers SHOW or Mr. Michal in the future.
 
