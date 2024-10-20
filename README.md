@@ -618,7 +618,7 @@ In this scenario, we aim to analyze YouTubers with the highest view counts. Our 
    - Campaign cost (Contract duration: 2.5 to 3 months based on fee variability) = 960,000.00 CZK
    - Potential net profit =  7,000,000.00 (CZK) - 960,000.00 (CZK) = 6,040,000.00 CZK
 
-     Best alternative in this scenario is **ViralBrothers SHOW** with **25,680,000.00 CZK** potential net profit.  
+     The best alternative in this scenario is **ViralBrothers SHOW** with **25,680,000.00 CZK** potential net profit.  
 
 **SQL Query - Variables Initialization for 3rd Scenario**  
 
