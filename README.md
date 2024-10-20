@@ -430,7 +430,7 @@ Here are the main topics we need to answer:
 | 9    | NejFake                  |        8.37%      |
 | 10   | Stay12                   |        8.33%      |  
 
-In this analysis, we will primarily prioritize the key metrics essential for achieving the expected Return on Investment (ROI) for our marketing department, specifically focusing on YouTube channels with the highest number of subscribers, total videos uploaded, and total view count. By analyzing these metrics, we aim to identify the most suitable YouTubers to optimize our marketing department efforts on the platform.  
+In this analysis, we will primarily prioritize the key metrics essential for achieving the expected Return on Investment (ROI) for our marketing department, specifically focusing on YouTube channels with the highest number of subscribers, total videos uploaded, and total view count. By analyzing these metrics, we aim to identify the most suitable YouTubers to optimize our marketing department's efforts on the platform.  
 
 ### Validation - Scenarios  
 
