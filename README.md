@@ -18,6 +18,10 @@
   - [General Workflow](#General-Workflow)
   - [Data exploration](#Data-exploration)
   - [Data cleaning and testing](#Data-cleaning-and-testing)
+- [Visualization, Analysis and Conclusion](#Visualization,-Analysis-and-Conclusion)
+  - [Data Visualization](#Data-Visualization)
+  - [Analysis](#Analysis)
+  - [Conclusion](#Conclusion)
 
 
 
