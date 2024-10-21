@@ -14,9 +14,8 @@
   - [Required Dashboard Elements](#required-dashboard-elements)
   - [Dashboard Visualization](#dashboard-visualization)
   - [Tools requirements](#tools-requirements)
-- [Project building](#project-building)
-  - [General Workflow](#general-workflow)
-  - [Data exploration](#data-exploration)
+- [Project building - General Workflow](#project-building---general-workflow)
+- [Data exploration](#data-exploration)
 - [Data cleaning and testing](#data-cleaning-and-testing)
   - [Data cleaning and preparation](#data-cleaning-and-preparation)
   - [Data testing](#data-testing)
@@ -130,9 +129,7 @@ Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations su
   </tr>
 </table>
 
-## Project building
-
-### General Workflow
+## Project building - General Workflow
 
 What’s the overall process to develop the solution?
 
@@ -147,7 +144,7 @@ What’s the overall process to develop the solution?
 - Sharing: Share the final visualizations, recommendations, and documentation with the marketing department
 - Feedback: Gather feedback from the marketing department/client and make any necessary adjustments to the project (this usually involves revisiting previous steps and should be part of every previous step).
 
-### Data exploration
+## Data exploration
 
 In the next phase, we gain an overview of what the data contains, identifying errors, inconsistencies, and any other issues (e.g., unknown characters, corrupted text, etc.).
 
