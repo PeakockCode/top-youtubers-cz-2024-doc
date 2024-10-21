@@ -35,7 +35,7 @@
 ## Intention
 
 ### Goal
-The marketing department wants to identify and analyze the top YouTubers in the Czech Republic for 2024 to determine which content creators would be the best fit for marketing campaigns next year. They want to focus on the YouTube channels of the top 100 YouTubers and would like to know if it is sufficient to use public sources to obtain the data.
+The marketing department wants to identify and analyze the top YouTubers in the Czech Republic for 2024 to determine which content creators would be the most suitable, particularly from a financial perspective, for marketing campaigns next year. They plan to focus on the top 100 YouTubers and would like to know if it is sufficient to rely on public sources.  
 
 ### Solution Idea
 We need to identify the metrics and KPIs that we can use to compare the data.
