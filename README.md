@@ -24,7 +24,7 @@
   - [Measures](#measures)
 - [Analysis](#analysis)
   - [Results overview](#results-overview)
-  - [Validation - Scenarios ](#validation---scenarios )
+  - [Scenarios ](#scenarios)
 - [Conclusion](#conclusion)
   - [Findings](#findings)
   - [Recommendations](#recommendations)
@@ -429,7 +429,7 @@ Here are the main topics we need to answer:
 
 In this analysis, we will primarily prioritize the key metrics essential for achieving the expected Return on Investment (ROI) for our marketing department, specifically focusing on YouTube channels with the highest number of subscribers, total videos uploaded, and total view count. By analyzing these metrics, we aim to identify the most suitable YouTubers to optimize our marketing department's efforts on the platform.  
 
-### Validation - Scenarios  
+### Scenarios  
 
 These metrics (YouTube channels with the highest number of subscribers, total videos uploaded, and total views) will be used in three simulation scenarios through which we will attempt to find suitable YouTubers. These scenarios will help us evaluate different approaches and campaign costs, allowing us to visualize the varying profitability of individual campaigns.
 
