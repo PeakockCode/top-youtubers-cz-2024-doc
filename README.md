@@ -335,7 +335,7 @@ Here are the main topics we need to answer:
 - Who are the 10 YouTubers (YouTube channels) with the highest total view count?
 - What are the 10 YouTubers (YouTube channels) that get the highest average views per video?
 - Which 10 YouTubers (YouTube channels) have the best views-to-subscriber ratio?
-- Who are the 10 YouTubers (YouTube channels) with the highest subscriber engagement rate per video?
+- Who are the 10 YouTubers (YouTube channels) with the highest subscriber engagement rate?
 
 **1) What are the 10 YouTubers (YouTube channels) with the largest subscriber base?**  
 
