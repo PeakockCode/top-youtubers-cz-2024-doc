@@ -196,7 +196,7 @@ No column should contain null values.
 **We need to check following informations:**  
 
 -	Number of rows and columns
--	
+	
 <table>
   <tr>
     <th style="text-align: center;">Property</th>
