@@ -1,4 +1,4 @@
-# CZECH TOP YOUTUBERS 2024
+# TOP CZECH YOUTUBERS 2024
 
 
 ![YouTube image](assets/images/youTubers.jpg)
